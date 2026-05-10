@@ -1,0 +1,37 @@
+﻿Nombre,Requisitos,Requisitos de nivel,Requistos estilo pelea
+Tiro con Arco,DES > 13,,
+Experto en Tiro con Arco,,6," Tiro con Arco"
+Combate Equilibrado,,,
+Experto Equilibrado,,6,Combate Equilibrado
+Pelea Callejera,Competencia en https://www.notion.so/14882858a7758017adbeca10ada6a343?pvs=21,,
+Esgrima Clásica,DES > 13,,
+Experto en Esgrima Clásica,,6,Esgrima Clásica
+Combate Defensivo,,,
+Experto Defensivo,,6,Combate Defensivo
+Combate con Dos Armas,FUE o DES >13,,
+Experto en Combate con Dos Armas,,6,Combate con Dos Armas
+Combate con Arma Grande,FUE >13,,
+Experto en Arma Grande,,6,Combate con Arma Grande
+Guerrero Montado,Competencia en https://www.notion.so/14882858a77580f4b92ef9c92a64afcc?pvs=21,,
+Combate con Arma de Asta,FUE o DES >11,,
+Experto en Arma de Asta,,6,Combate con Arma de Asta
+Protección,,,
+Experto en Protección,,6,Protección
+Arco Fuerte,FUE >13,,
+Combate Versátil,FUE o DES >11,,
+Guerrero Ciego,Competencia en https://www.notion.so/14882858a77580dfa2f3f3109c37ce89?pvs=21,,
+Experto en Pelea Callejera,,6,Pelea Callejera
+Combate Peso Pluma,"DES > 13, Competencia en https://www.notion.so/14882858a77580bf8f11ee2deceaef34?pvs=21",,
+Experto Peso Pluma,,6,Combate Peso Pluma
+Combate Peso Pesado,FUE > 13,,
+Experto Peso Pesado,,6,Combate Peso Pesado
+Lanzador,FUE o DES >11,,
+Combate Improvisado,FUE >11,,
+Tirador Cuerpo a Cuerpo,DES >13,,
+Experto Montado,,6,Guerrero Montado
+Guerrero de Escudo,FUE > 13,,
+Experto en Escudos,,6,Guerrero de Escudo
+Técnica Superior,,6,
+Portaestandarte,CAR > 13,,
+Combate Brutal,FUE > 13,,
+Combate Desgarrador,DES > 13,,
