@@ -7,7 +7,7 @@ Rango: Contacto
 Componentes: M, S, V
 Materiales: Tinta mágica de al menos 10 PO — consumible
 Duración: Hasta ser disipado
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Las palabras que escribes son visibles solo para quien tú elijas; para los demás, garabatos sin sentido.
 

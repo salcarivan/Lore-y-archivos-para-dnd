@@ -7,11 +7,11 @@ Rango: Personal
 Componentes: M, S, V
 Materiales: Pluma de cuervo y polvo de lavanda, 10 po; consumible
 Duración: 8 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Tus palabras viajan al sueño de otro; lo que siembras en sueños, florece en la vigilia.
 
-Seleccionas una criatura que conoces en el mismo plano de existencia. Tú o una criatura dispuesta a la que toques entra en un estado de trance para actuar como mensajero onírico. Mientras está en trance, el mensajero queda [incapacitado](https://www.notion.so/Incapacitado-33882858a775801f9713fba254228312?pvs=21) y tiene una velocidad de 0.
+Seleccionas una criatura que conoces en el mismo plano de existencia. Tú o una criatura dispuesta a la que toques entra en un estado de trance para actuar como mensajero onírico. Mientras está en trance, el mensajero queda [incapacitado](https://app.notion.com/p/Incapacitado-33882858a775801f9713fba254228312?pvs=21) y tiene una velocidad de 0.
 
 Si el objetivo está dormido, el mensajero aparece en sus sueños y puede conversar con él mientras permanezca dormido, durante la duración del conjuro. El mensajero también puede modificar el entorno onírico, creando paisajes, objetos y otras imágenes. Puede salir del trance en cualquier momento, finalizando el conjuro. Al despertar, el objetivo recuerda el sueño a la perfección.
 

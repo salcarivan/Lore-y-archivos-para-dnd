@@ -6,11 +6,11 @@ Tiempo de lanzamiento: 10 minutos
 Rango: Personal
 Componentes: S, V
 Duración: 10 minutos
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: El lenguaje de las bestias no es misterio para ti; su sabiduría salvaje es tuya por un momento.
 
-Puedes comprender y comunicarte verbalmente con bestias durante la duración. Las bestias son tan inteligentes como su INT permite: una rata puede decirte qué olió cerca, un lobo puede describir a los viajeros que pasaron. Las bestias no son obligatoriamente amistosas; puedes usar [Domesticar](https://www.notion.so/Domesticar-14882858a77580f4b92ef9c92a64afcc?pvs=21)  para mejorar su actitud.
+Puedes comprender y comunicarte verbalmente con bestias durante la duración. Las bestias son tan inteligentes como su INT permite: una rata puede decirte qué olió cerca, un lobo puede describir a los viajeros que pasaron. Las bestias no son obligatoriamente amistosas; puedes usar [Domesticar](https://app.notion.com/p/Domesticar-14882858a77580f4b92ef9c92a64afcc?pvs=21)  para mejorar su actitud.
 
 ### **Variante 5º Círculo (8 maná) — Voz de la Naturaleza**
 

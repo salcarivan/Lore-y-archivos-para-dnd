@@ -7,7 +7,7 @@ Rango: Personal (radio 3 casillas centrado en ti al lanzar)
 Componentes: M, S, V
 Materiales: Polvo de plata y carbón, 50 PO — consumible
 Duración: Concentración, hasta 8 horas
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Trazas el círculo con intención absoluta; quien lo cruce sentirá el peso de tu voluntad.
 

@@ -7,7 +7,7 @@ Rango: Línea de 16 casillas de largo, 1 casilla de ancho
 Componentes: M, S, V
 Materiales: Una varilla de cobre o hierro
 Duración: Instantánea
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Un rayo de luz cegadora rasga el aire como una jabalina divina de tormenta pura.
 
@@ -15,7 +15,7 @@ Lanzas un rayo de electricidad en línea recta. Cada criatura en la línea debe 
 
 | Resultado | Efecto |
 | --- | --- |
-| **Fallo** | 6d10 de daño por **Relámpago** y queda [**Electrificada**](https://www.notion.so/Electrificado-33882858a775801f991acdb2e966fa52?pvs=21) hasta el inicio de su siguiente turno |
+| **Fallo** | 6d10 de daño por **Relámpago** y queda [**Electrificada**](https://app.notion.com/p/Electrificado-33882858a775801f991acdb2e966fa52?pvs=21) hasta el inicio de su siguiente turno |
 | **Éxito** | Mitad del daño, sin condición |
 
 Si el rayo impacta un objeto metálico grande o agua, se ramifica: afecta a todas las criaturas en 2 casillas del punto de impacto (salvación igual, daño 3d10).

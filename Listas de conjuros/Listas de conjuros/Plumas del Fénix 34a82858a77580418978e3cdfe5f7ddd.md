@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Una pluma de fénix o de pájaro de fuego, 50 PO, consumidos
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: La pluma de fuego se disuelve en la piel del objetivo dejando una última promesa ardiente de vida robada a la muerte.
 

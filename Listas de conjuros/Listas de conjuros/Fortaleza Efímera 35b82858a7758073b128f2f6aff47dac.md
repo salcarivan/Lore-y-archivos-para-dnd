@@ -7,7 +7,7 @@ Rango: 4 casillas
 Componentes: M, S, V
 Materiales: Miniatura de una fortaleza tallada en piedra volcánica, 500 po
 Duración:  24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: En el tiempo que tarda una fogata en prender, un refugio inexpugnable nace de la nada.
 

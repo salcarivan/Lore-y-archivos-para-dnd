@@ -7,9 +7,9 @@ Rango: Personal
 Componentes: M, S, V
 Materiales:  Escamas de criatura abisal y barro de cueva, 15 PO
 Duración: 8 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
-Breve descripción:  8 horas
+Breve descripción: Tu piel adquiere las propiedades de las criaturas de las profundidade
 
 Tu piel adquiere las propiedades de las criaturas de las profundidades. Ganas los siguientes beneficios durante la duración: **+2 a la CA** (no se apila con armadura pesada), resistencia al **daño por frío** y al **daño por ácido**, y puedes respirar bajo el agua. Además, estás **adaptado a la presión abismal** (inmune a los efectos de aplastamiento por presión de agua o tierra).
 

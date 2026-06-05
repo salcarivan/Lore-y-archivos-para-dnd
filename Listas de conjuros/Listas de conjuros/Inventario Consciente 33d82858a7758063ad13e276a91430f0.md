@@ -7,7 +7,7 @@ Rango: Contacto
 Componentes: M, S, V
 Materiales: Una etiqueta de tela con tus iniciales bordadas
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Tu bolsa aprende; los objetos acuden a tu mano antes de que termines de pedirlos.
 

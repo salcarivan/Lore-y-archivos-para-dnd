@@ -7,7 +7,7 @@ Rango: 16 casillas dispersas en área de 4×4 casillas
 Componentes: M, S, V
 Materiales: Azúcar y colorante natural
 Duración: 1 hora
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Esferas de caramelo transparente caen inocentemente al suelo, tan bellas como una trampa bien puesta.
 
@@ -18,10 +18,10 @@ El lanzador dispersa hasta **6 esferas de caramelo duro** en el área elegida. L
 | Color | Efecto al pisar |
 | --- | --- |
 | **Rojo** | 2d6 de daño de Fuego (explosión de calor) |
-| **Azul** | La criatura queda [**Electrificada**](https://www.notion.so/Electrificado-33882858a775801f991acdb2e966fa52?pvs=21) (descarga) |
-| **Verde** | La criatura queda [**Envenenada](https://www.notion.so/Envenenado-33882858a77580399b62e84b62793b49?pvs=21) (nivel 1)** si falla salvación CON CD lanzador |
-| **Blanco** | La criatura queda [**Enfriada**](https://www.notion.so/Enfriado-33882858a77580639364f3ca84cca5ca?pvs=21) |
-| **Dorado** | La criatura queda [**Encantada**](https://www.notion.so/Encantado-33882858a7758002a2e8db52976123f9?pvs=21) por el lanzador durante 1 minuto (salvación SAB) |
+| **Azul** | La criatura queda [**Electrificada**](https://app.notion.com/p/Electrificado-33882858a775801f991acdb2e966fa52?pvs=21) (descarga) |
+| **Verde** | La criatura queda [**Envenenada](https://app.notion.com/p/Envenenado-33882858a77580399b62e84b62793b49?pvs=21) (nivel 1)** si falla salvación CON CD lanzador |
+| **Blanco** | La criatura queda [**Enfriada**](https://app.notion.com/p/Enfriado-33882858a77580639364f3ca84cca5ca?pvs=21) |
+| **Dorado** | La criatura queda [**Encantada**](https://app.notion.com/p/Encantado-33882858a7758002a2e8db52976123f9?pvs=21) por el lanzador durante 1 minuto (salvación SAB) |
 
 Las criaturas aliadas designadas no activan las esferas. Una esfera puede comerse voluntariamente (acción estando adyacente): el comedor recupera **1d4 PG** y conoce el efecto de esa esfera antes de consumirla.
 

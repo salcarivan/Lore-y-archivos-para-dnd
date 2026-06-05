@@ -7,7 +7,7 @@ Rango: 10 casillas
 Componentes: M, S, V
 Materiales: Un puñado de tierra de la montaña o tundra de origen, 10 po
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: La tierra tiembla y una silueta colosal se materializa, tan alta que su cabeza roza las nubes bajas.
 

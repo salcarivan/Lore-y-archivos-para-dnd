@@ -7,7 +7,7 @@ Rango: 24 casillas
 Componentes: M, S, V
 Materiales: Un retrato o pertenencia personal del objetivo, consumido
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: El destino se convierte en verdugo; el universo conspira para que el elegido no escape.
 

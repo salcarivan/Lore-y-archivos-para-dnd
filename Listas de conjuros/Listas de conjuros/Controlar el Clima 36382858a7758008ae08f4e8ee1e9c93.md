@@ -7,7 +7,7 @@ Rango: Radio de 300 casillas centrado en el lanzador (solo exterior o espacios m
 Componentes: M, S, V
 Materiales: Un puñado de tierra, agua, fuego y aire —consumibles—
 Duración: Concentración, hasta 8 horas
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: Yes
 Breve descripción: El mago alza las manos al cielo y el cielo le obedece, doblando nubes y vientos a su voluntad.
 

@@ -7,7 +7,7 @@ Rango: 2 casillas
 Componentes: M, S, V
 Materiales: Una aguja oxidada y hilo de cabello del objetivo
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Cada corte que recibe se niega a cerrar; su cuerpo ha olvidado cómo sanarse a sí mismo.
 

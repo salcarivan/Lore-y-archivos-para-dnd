@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción bono
 Rango: Toque (arma portada por el lanzador o un aliado voluntario en 2 casillas)
 Componentes: S, V
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: La divinidad desciende al acero como luz que elige dónde arde y dónde sana.
 

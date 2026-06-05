@@ -7,7 +7,7 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Una pluma negra de cuervo
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Cuatro cuervos de ceniza agitan alas de presagio y estallan sobre sus víctimas en maldición oscura.
 

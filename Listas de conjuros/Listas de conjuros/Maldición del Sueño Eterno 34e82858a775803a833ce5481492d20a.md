@@ -7,7 +7,7 @@ Rango: 2 casillas
 Componentes: M, S, V
 Materiales: Pétalos de adormidera y arena de playa de noche de luna nueva, 15 PO, consumible
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: El sueño lo llama en cada silencio; tarde o temprano lo llamará desde el que no regresa.
 

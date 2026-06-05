@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Un reloj de arena sellado con cera de abeja virgen y polvo de cristal de cuarzo, 400 po
 Duración: Hasta 1 año
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Guardas algo dentro de un instante congelado, esperando el momento exacto para despertar.
 

@@ -7,7 +7,7 @@ Rango: Tú mismo
 Componentes: M, S, V
 Materiales: Un espejo pequeño de plata, 25 PO
 Duración: Instantánea
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Lo que fue lanzado vuelve, retorcido, con el mismo filo pero apuntando hacia su origen.
 
@@ -34,4 +34,4 @@ Si el conjuro devuelto impacta al lanzador original y este sufre daño, ese dañ
 
 **Coste:** 8 maná
 
-Si devuelves con éxito un conjuro de 5.º círculo o superior, el lanzador original debe hacer una tirada de salvación de Constitución (CD = tu CD de conjuro) o quedar [**Estupefacto**](https://www.notion.so/Estupefacto-33882858a7758039a258c54b448ea367?pvs=21) durante 1 ronda: la paradoja de recibir su propio conjuro daña su capacidad de reacción mágica.
+Si devuelves con éxito un conjuro de 5.º círculo o superior, el lanzador original debe hacer una tirada de salvación de Constitución (CD = tu CD de conjuro) o quedar [**Estupefacto**](https://app.notion.com/p/Estupefacto-33882858a7758039a258c54b448ea367?pvs=21) durante 1 ronda: la paradoja de recibir su propio conjuro daña su capacidad de reacción mágica.

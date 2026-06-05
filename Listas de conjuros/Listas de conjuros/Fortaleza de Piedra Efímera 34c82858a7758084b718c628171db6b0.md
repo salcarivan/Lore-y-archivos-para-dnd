@@ -7,7 +7,7 @@ Rango: 4 casillas del lanzador (área de construcción de hasta 5×5 casillas)
 Componentes: M, S, V
 Materiales: Un trozo de arcilla o piedra y un dibujo de los planos de la estructura, 15 PO, consumible
 Duración: 8 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: De la tierra emergen muros y techos que saben distinguir entre los que protegen y los que asedian.
 

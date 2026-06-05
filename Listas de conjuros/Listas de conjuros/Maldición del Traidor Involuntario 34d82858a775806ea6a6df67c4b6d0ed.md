@@ -7,11 +7,11 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Un cordel anudado de seda negra, 30 PO, consumible
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Sus manos harán lo que su mente rechaza; la traición no necesita querer para ocurrir.
 
-**Situación de activación:** Cada vez que la criatura realiza una acción de [ayuda](https://www.notion.so/Ayudar-c8edf02094f14b3a8094c6217f11897f?pvs=21), cura a un aliado o está adyacente a 2 o más aliados al mismo tiempo.
+**Situación de activación:** Cada vez que la criatura realiza una acción de [ayuda](https://app.notion.com/p/Ayudar-c8edf02094f14b3a8094c6217f11897f?pvs=21), cura a un aliado o está adyacente a 2 o más aliados al mismo tiempo.
 
 **Salvación:** Sabiduría (CD del lanzador).
 

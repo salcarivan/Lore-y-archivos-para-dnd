@@ -7,7 +7,7 @@ Rango: 8 casillas
 Componentes: M, S, V
 Materiales: Una moneda vieja con las dos caras iguales
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Tuerces el hilo del destino; lo que debía fallar acierta, y lo que debía acertar falla.
 
@@ -22,11 +22,11 @@ El efecto se declara **antes** de que el DM anuncie si la tirada tuvo éxito.
 
 ### **Variante 1º Círculo — Maldición de Infortunio** (2 maná)
 
-Maldices a una criatura dentro de 10 casillas durante 1 minuto ([concentración](https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)). Una vez por ronda, cuando la criatura haga una tirada de ataque, salvación o prueba, puedes obligarla a repetirla y usar el peor resultado.
+Maldices a una criatura dentro de 10 casillas durante 1 minuto ([concentración](https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)). Una vez por ronda, cuando la criatura haga una tirada de ataque, salvación o prueba, puedes obligarla a repetirla y usar el peor resultado.
 
 ### **Variante 3º Círculo — Manipular Destino** (5 maná)
 
-Durante 1 minuto ([concentración](https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)), una criatura de tu elección dentro de 8 casillas tiene **desventaja** en todas sus tiradas de ataque y salvación. Simultáneamente, otra criatura de tu elección gana **ventaja** en sus tiradas de ataque.
+Durante 1 minuto ([concentración](https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)), una criatura de tu elección dentro de 8 casillas tiene **desventaja** en todas sus tiradas de ataque y salvación. Simultáneamente, otra criatura de tu elección gana **ventaja** en sus tiradas de ataque.
 
 ### **Variante 5º Círculo — Reescribir el Momento** (8 maná)
 

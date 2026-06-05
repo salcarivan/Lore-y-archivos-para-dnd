@@ -7,7 +7,7 @@ Rango: Contacto
 Componentes: M, S, V
 Materiales: Un puñado de bayas frescas o fruta común
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Con palabras de crecimiento y vida, conviertes fruta ordinaria en medicina arcana comestible.
 

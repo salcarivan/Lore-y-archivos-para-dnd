@@ -7,7 +7,7 @@ Rango: Personal, radio 4 casillas
 Componentes: M, S, V
 Materiales: Una reliquia de un ser fallecido vinculado al lanzador
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Formas de luz y sombra que se asemejan a los perdidos te rodean; protegen con fiereza lo que no pudieron salvar en vida.
 

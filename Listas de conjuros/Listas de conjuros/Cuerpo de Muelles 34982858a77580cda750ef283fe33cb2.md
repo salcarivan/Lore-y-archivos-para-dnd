@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción bono
 Rango: Personal
 Componentes: S, V
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Tus piernas y brazos se comprimen y liberan con violencia elástica, propulsándote a velocidades imposibles.
 
@@ -14,7 +14,7 @@ Tu cuerpo adquiere propiedades elásticas de resorte. Ganas los siguientes benef
 
 ### **Variante 4º — *Tensión del Gran Resorte* (6 maná)**
 
-Tu velocidad aumenta en 8 casillas. Los saltos se triplican. Puedes usar una acción para comprimir tu cuerpo completamente y lanzarte hasta 12 casillas en línea recta, arrollando a todas las criaturas en el camino (salvación de Fuerza contra tu CD o **2d8 de daño contundente** y quedan [**Tumbadas**](https://www.notion.so/Tumbado-33882858a7758023acc6c6d3eeae11f4?pvs=21)).
+Tu velocidad aumenta en 8 casillas. Los saltos se triplican. Puedes usar una acción para comprimir tu cuerpo completamente y lanzarte hasta 12 casillas en línea recta, arrollando a todas las criaturas en el camino (salvación de Fuerza contra tu CD o **2d8 de daño contundente** y quedan [**Tumbadas**](https://app.notion.com/p/Tumbado-33882858a7758023acc6c6d3eeae11f4?pvs=21)).
 
 ### **Variante 6º — *Espiral Imparable del Resorte Eterno* (9 maná)**
 

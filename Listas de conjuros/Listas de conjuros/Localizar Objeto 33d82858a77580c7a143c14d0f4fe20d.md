@@ -7,7 +7,7 @@ Rango: Personal (radio 200 casillas)
 Componentes: M, S, V
 Materiales: Una bifurcación de sauce
 Duración: Concentración
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Cierras los ojos y el objeto tira de ti; la distancia es irrelevante ante tu certeza.
 

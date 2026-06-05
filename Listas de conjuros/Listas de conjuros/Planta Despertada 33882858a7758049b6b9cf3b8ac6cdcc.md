@@ -7,7 +7,7 @@ Rango: 2 casillas
 Componentes: M, S, V
 Materiales: Una semilla de planta venenosa o resistente de 5 PO
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Una raíz, una flor o un zarcillo cobra vida y te sigue con voluntad vegetal silenciosa.
 
@@ -62,8 +62,8 @@ Mientras la planta esté a menos de 12 casillas de ti, puedes usar tu acción ad
 
 **Acciones**. 
 
-**Golpe**. *Ataque con cuerpo a cuerpo:* usa tu modificador de ataque de conjuro para impactar, alcance de 1 casilla, un objetivo. *Impacto:* (1d4 + PB) de daño contundente o cortante, y un objetivo igual o menor al tamaño de la Planta Despertada queda [Agarrado](https://www.notion.so/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) (CD de salvación de conjuro para finalizar).
+**Golpe**. *Ataque con cuerpo a cuerpo:* usa tu modificador de ataque de conjuro para impactar, alcance de 1 casilla, un objetivo. *Impacto:* (1d4 + PB) de daño contundente o cortante, y un objetivo igual o menor al tamaño de la Planta Despertada queda [Agarrado](https://app.notion.com/p/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) (CD de salvación de conjuro para finalizar).
 
 **Acciones especiales:**
 
-- **Fruto Tóxico (1/día, círculo 3+):** Lanza un fruto a una criatura a 4 casillas. Si impacta (ataque de conjuro), aplica [**Envenenado](https://www.notion.so/Envenenado-33882858a77580399b62e84b62793b49?pvs=21) nivel 1 (d12)**.
+- **Fruto Tóxico (1/día, círculo 3+):** Lanza un fruto a una criatura a 4 casillas. Si impacta (ataque de conjuro), aplica [**Envenenado](https://app.notion.com/p/Envenenado-33882858a77580399b62e84b62793b49?pvs=21) nivel 1 (d12)**.

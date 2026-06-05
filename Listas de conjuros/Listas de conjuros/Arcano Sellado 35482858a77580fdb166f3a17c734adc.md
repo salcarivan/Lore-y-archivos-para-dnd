@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Polvo de diamante, 25 po; se consume
 Duración:  Hasta ser disipado
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: El lanzador traza un sigilo en el aire que queda impreso en el objeto; quien intente forzarlo sentirá el peso de la voluntad arcana.
 

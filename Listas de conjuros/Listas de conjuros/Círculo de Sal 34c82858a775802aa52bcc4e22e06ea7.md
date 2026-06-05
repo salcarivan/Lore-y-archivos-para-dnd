@@ -7,7 +7,7 @@ Rango: Tú mismo (radio 4 casillas, 20 pies)
 Componentes: M, S, V
 Materiales: 1 libra de sal pura, 1 PO, consumible
 Duración: 8 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: La sal purifica el suelo y levanta una barrera invisible que recuerda a lo impuro que no es bienvenido.
 

@@ -7,7 +7,7 @@ Rango: 20 casillas
 Componentes: M, S, V
 Materiales: Un dado tallado en marfil de dragón, valor 500 po
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Los hilos del destino se enredan en tus dedos; lo que era fortuito ahora es tu voluntad.
 

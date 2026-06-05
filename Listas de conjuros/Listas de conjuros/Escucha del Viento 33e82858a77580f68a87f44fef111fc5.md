@@ -7,7 +7,7 @@ Rango: Personal (radio 60 casillas)
 Componentes: M, S, V
 Materiales: Una caracola marina vacía
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: El viento transporta voces distantes hasta tus oídos, susurrando secretos que el aire ha guardado.
 

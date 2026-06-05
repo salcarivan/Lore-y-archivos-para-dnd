@@ -7,7 +7,7 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Un pelo, pluma o escama de la bestia objetivo
 Duración:  Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: La carne se retuerce y los huesos crujen mientras la forma humana se deshace en algo más antiguo.
 

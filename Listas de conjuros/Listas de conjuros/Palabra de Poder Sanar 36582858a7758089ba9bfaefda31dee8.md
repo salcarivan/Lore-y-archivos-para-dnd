@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción
 Rango: 12 casillas
 Componentes: V
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Una sola palabra sagrada reconstruye cuerpo y espíritu desde sus mismos cimientos.
 

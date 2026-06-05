@@ -7,7 +7,7 @@ Rango: Personal (radio 10 casillas)
 Componentes: M, S, V
 Materiales: Agua bendita e incienso sagrado, 150 po, consumidos
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: El suelo que pisas respira santidad; los que te son fieles florecen, los que no, se marchitan.
 
@@ -21,4 +21,4 @@ Consagras un área de radio 10 casillas a tu alrededor en el momento de lanzar e
 
 **Coste:** 12 maná · **Radio:** 20 casillas · **Duración:** 7 días
 
-La recuperación de PG para criaturas aliadas aumenta a **1d6** por turno. Las criaturas opuestas que fallen la salvación de Sabiduría quedan también [**Marchitas**](https://www.notion.so/Marchito-33882858a77580fd90eadaecb253a0c8?pvs=21) durante 1 minuto. El área queda permanentemente marcada como territorio sagrado/maldito (detectable con *Detectar Magia* y efectos similares) incluso después de que la duración expire, como señal narrativa.
+La recuperación de PG para criaturas aliadas aumenta a **1d6** por turno. Las criaturas opuestas que fallen la salvación de Sabiduría quedan también [**Marchitas**](https://app.notion.com/p/Marchito-33882858a77580fd90eadaecb253a0c8?pvs=21) durante 1 minuto. El área queda permanentemente marcada como territorio sagrado/maldito (detectable con *Detectar Magia* y efectos similares) incluso después de que la duración expire, como señal narrativa.

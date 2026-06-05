@@ -7,7 +7,7 @@ Rango:  Personal (60 casillas de radio)
 Componentes: M, S, V
 Materiales: Una maqueta del dominio tallada en obsidiana, valor 5.000 po, consumida
 Duración: Permanente
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Un susurro de poder y la tierra obedece, alzando paredes donde antes había nada.
 

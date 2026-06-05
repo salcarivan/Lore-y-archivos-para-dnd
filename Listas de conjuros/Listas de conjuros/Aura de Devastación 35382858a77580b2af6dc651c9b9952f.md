@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción
 Rango: Personal, radio 2 casillas
 Componentes: S, V
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Una corona de energía pura rodea al lanzador; todo lo que se acerca demasiado recibe su furia sin que este mueva un dedo.
 

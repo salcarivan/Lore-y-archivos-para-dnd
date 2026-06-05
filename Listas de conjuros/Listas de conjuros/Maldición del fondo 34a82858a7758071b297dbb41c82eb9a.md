@@ -7,7 +7,7 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Un trozo de coral negro, 10 PO, consumidos
 Duración:  Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: La maldición cae como fango del fondo oceánico: lenta, pegajosa e imposible de sacudir con simple voluntad.
 

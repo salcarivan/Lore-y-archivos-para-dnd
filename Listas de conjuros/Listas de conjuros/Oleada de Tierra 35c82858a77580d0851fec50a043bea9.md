@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción bono
 Rango: Personal, línea de 12 casillas de largo y 2 casillas de ancho
 Componentes: S, V
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: Yes
 Breve descripción: El suelo ondula como agua y empuja todo hacia adelante en una ola de tierra y roca.
 

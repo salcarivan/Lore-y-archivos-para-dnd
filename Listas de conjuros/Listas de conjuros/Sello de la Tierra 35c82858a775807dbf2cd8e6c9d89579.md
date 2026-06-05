@@ -7,7 +7,7 @@ Rango: 16 casillas, área de 4x4 casillas
 Componentes: M, S, V
 Materiales: Tierra de un lugar sagrado o maldito, 50 po
 Duración: Hasta 24 horas o hasta condición de liberación
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Raíces de piedra y tierra brotan y atrapan a los que pisan el suelo maldito.
 

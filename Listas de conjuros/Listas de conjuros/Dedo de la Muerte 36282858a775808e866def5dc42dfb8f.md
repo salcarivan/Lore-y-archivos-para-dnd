@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción
 Rango:  12 casillas (un objetivo que puedas ver)
 Componentes: S, V
 Duración: Instantáneo 
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Señalas y la muerte obedece; la vida abandona al maldito con un chasquido de huesos.
 

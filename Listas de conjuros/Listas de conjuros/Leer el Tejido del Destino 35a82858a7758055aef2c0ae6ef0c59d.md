@@ -7,7 +7,7 @@ Rango: Personal
 Componentes: M, S, V
 Materiales: Espejo de agua clara en un recipiente de plata, 50 po
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: En cada elección hay una hebra; tú aprendes a ver todas ellas a la vez.
 

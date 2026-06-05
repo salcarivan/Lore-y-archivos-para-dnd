@@ -7,13 +7,13 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Cadenas de hierro negro, 200 po, consumidas
 Duración: Hasta 24 horas o hasta condición de liberación
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Cadenas de energía negra brotan del suelo y envuelven al objetivo con voluntad propia.
 
 El objetivo debe superar una **salvación de Fuerza (CD de lanzamiento)**. Si falla, queda envuelto en cadenas mágicas:
 
-- Queda [**Inmovilizado**](https://www.notion.so/Incapacitado-33882858a775801f9713fba254228312?pvs=21) (velocidad 0).
+- Queda [**Inmovilizado**](https://app.notion.com/p/Incapacitado-33882858a775801f9713fba254228312?pvs=21) (velocidad 0).
 - Tiene **desventaja** en todas las tiradas de ataque y salvación.
 - Cada intento de lanzar un conjuro requiere superar una **salvación de Constitución CD 15** o el conjuro falla (pero el maná no se gasta).
 - Como acción, el objetivo puede intentar liberarse: prueba de **Fuerza (Atletismo) CD = CD de lanzamiento**; si tiene éxito, se libera.

@@ -7,7 +7,7 @@ Rango: Toque (objeto o área de hasta 10 casillas cúbicas)
 Componentes: M, S, V
 Materiales: Vinagre de dragón o miel de hada; 10 po
 Duración: 10 días
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: La magia teje hilos invisibles de atracción o repulsión que doblan la voluntad de los visitantes.
 

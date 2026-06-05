@@ -7,7 +7,7 @@ Rango: 10 casillas
 Componentes: M, S, V
 Materiales: Un fragmento de espejo negro o vidrio obsidiana
 Duración: Instantáneo 
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Abres una brecha en el tejido del espacio; lo que hay al otro lado no es amigable.
 

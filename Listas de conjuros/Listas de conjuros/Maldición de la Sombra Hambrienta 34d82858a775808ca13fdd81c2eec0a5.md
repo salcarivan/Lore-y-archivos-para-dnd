@@ -7,7 +7,7 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Un trozo de tela negra y polvo de carbón
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Su sombra ha aprendido a tener voluntad propia, y lo que quiere no le desea bien.
 
@@ -18,7 +18,7 @@ Breve descripción: Su sombra ha aprendido a tener voluntad propia, y lo que qui
 | Fase | Efectos permanentes |
 | --- | --- |
 | **Fase 1 — La Sombra Inquieta** | La sombra de la criatura se mueve de forma anómala (arrastra, llega tarde, apunta en otra dirección). La criatura recibe **1d4 de daño Necrótico** al entrar en luz brillante. Desventaja en pruebas de Carisma (las personas notan la sombra perturbadora). |
-| **Fase 2 — La Sombra Hambrienta** | La sombra intenta activamente agarrar a quienes estén adyacentes al maldito: criaturas en 1 casilla hacen salvación de Destreza CD 13 al inicio de su turno o quedan [**Agarradas**](https://www.notion.so/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) por la sombra hasta el inicio de su siguiente turno. La criatura maldita recibe **2d6 Necrótico** al entrar en luz brillante. |
+| **Fase 2 — La Sombra Hambrienta** | La sombra intenta activamente agarrar a quienes estén adyacentes al maldito: criaturas en 1 casilla hacen salvación de Destreza CD 13 al inicio de su turno o quedan [**Agarradas**](https://app.notion.com/p/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) por la sombra hasta el inicio de su siguiente turno. La criatura maldita recibe **2d6 Necrótico** al entrar en luz brillante. |
 | **Fase 3 — La Sombra Drenante** | La sombra drena la vida: al inicio de cada turno del maldito (en combate o en zonas iluminadas), recibe **1d8 de daño Necrótico** automático. La sombra tiene aspecto de criatura monstruosa y aterra a animales y niños en 10 casillas. |
 | **Culminación — La Sombra Sin Dueño** | La sombra se separa y se convierte en un **Elemental de Sombra** hostil al maldito (usa bloque de estadísticas de Sombra estándar). El maldito **ya no tiene sombra**: sin sombra, no puede ser detectado como ser vivo por magia de adivinación (beneficio perverso). La criatura sin sombra envejece al doble de velocidad. Atrapar y destruir la sombra suelta reúne las dos mitades. |
 

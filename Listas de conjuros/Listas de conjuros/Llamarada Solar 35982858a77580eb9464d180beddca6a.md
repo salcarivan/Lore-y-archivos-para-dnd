@@ -7,7 +7,7 @@ Rango: 20 casillas, columna de 2 casillas de radio y 8 de alto
 Componentes: M, S, V
 Materiales: Lente de cristal pulido y hoja de laurel seco
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Del cielo cae el fuego del sol; la naturaleza y la luz se unen para purificar.
 

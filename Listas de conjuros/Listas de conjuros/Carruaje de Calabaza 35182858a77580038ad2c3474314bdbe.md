@@ -7,7 +7,7 @@ Rango: Personal (el carruaje aparece a 2 casillas del lanzador)
 Componentes: M, S, V
 Materiales: Una calabaza de al menos 5 kg y polvo de estrella por valor de 50 PO, consumidos
 Duración: 8 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: De la nada surge el carruaje dorado: ruedas de luna, caballos de niebla, y un cochero de hojas marchitas.
 

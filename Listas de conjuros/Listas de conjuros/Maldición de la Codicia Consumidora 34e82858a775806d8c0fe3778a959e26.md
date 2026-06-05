@@ -7,7 +7,7 @@ Rango: 2 casillas
 Componentes: M, S, V
 Materiales: Una moneda de oro mordida y un grano de sal
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Las monedas que acumula pesan más cada día; lo que tiene ya no es suyo, sino al revés.
 

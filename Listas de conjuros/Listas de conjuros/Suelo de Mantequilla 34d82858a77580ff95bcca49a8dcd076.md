@@ -7,11 +7,11 @@ Rango: 16 casillas, área de 4×4 casillas sobre suelo
 Componentes: M, S, V
 Materiales: Un trozo de mantequilla o grasa animal
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Una capa resbaladiza de mantequilla convierte el suelo en una pesadilla lúbrica de caídas y vergüenzas.
 
-Una capa de mantequilla cubre el suelo del área. Cualquier criatura que entre o comience su turno en el área hace una **tirada de salvación de Destreza** (CD del lanzador) o cae [**Tumbada**](https://www.notion.so/Tumbado-33882858a7758023acc6c6d3eeae11f4?pvs=21). El movimiento en el área cuesta el doble (terreno difícil) para las criaturas de pie; las criaturas Tumbadas se deslizan: si fallan la salvación y están Tumbadas, se desplazan 1 casilla en la dirección que determine el DM.
+Una capa de mantequilla cubre el suelo del área. Cualquier criatura que entre o comience su turno en el área hace una **tirada de salvación de Destreza** (CD del lanzador) o cae [**Tumbada**](https://app.notion.com/p/Tumbado-33882858a7758023acc6c6d3eeae11f4?pvs=21). El movimiento en el área cuesta el doble (terreno difícil) para las criaturas de pie; las criaturas Tumbadas se deslizan: si fallan la salvación y están Tumbadas, se desplazan 1 casilla en la dirección que determine el DM.
 
 Las criaturas con velocidad de trepar o que usen 4 o más extremidades ignoran el efecto de caída (pero no el terreno difícil).
 

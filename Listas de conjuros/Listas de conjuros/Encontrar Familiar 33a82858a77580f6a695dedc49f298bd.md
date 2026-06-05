@@ -7,11 +7,11 @@ Rango: Personal
 Componentes: M, S, V
 Materiales: Una gota de tu propia sangre — el lanzador reduce sus PG máximos en 1 de forma permanente hasta recuperarlos; no es consumible, es un sacrificio
 Duración: Indefinida 
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Ofreces tu sangre al vacío y algo responde; no es una mascota, es un fragmento de tu alma.
 
-Invocas un **Familiar**, una criatura mágica vinculada a tu alma. El familiar se manifiesta con la apariencia de una [**Bestia de Desafío](https://www.notion.so/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) 0** que eliges al lanzar (cuervo, gato, rana, lechuza, serpiente, rata, murciélago, etc.), pero su tipo de criatura es **Celestial, Feérico o Infernal** (elige al invocarlo; esto refleja la naturaleza del alma del lanzador y puede cambiar si cambias de forma al familiar).
+Invocas un **Familiar**, una criatura mágica vinculada a tu alma. El familiar se manifiesta con la apariencia de una [**Bestia de Desafío](https://app.notion.com/p/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) 0** que eliges al lanzar (cuervo, gato, rana, lechuza, serpiente, rata, murciélago, etc.), pero su tipo de criatura es **Celestial, Feérico o Infernal** (elige al invocarlo; esto refleja la naturaleza del alma del lanzador y puede cambiar si cambias de forma al familiar).
 
 ---
 
@@ -53,4 +53,4 @@ Solo puedes tener **un familiar activo** a la vez.
 
 ### 🌟 Variante 5º Círculo — Familiar Mayor (8 maná)
 
-Lanzando este conjuro con 8 maná, puedes invocar un Familiar Mayor: una [**Bestia de Desafío](https://www.notion.so/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) 1/4 o inferior** . El Familiar Mayor **puede atacar** como acción bono (usando tu bonificación de ataque de conjuro). El sacrificio de PG máximos es de **3** en lugar de 1.
+Lanzando este conjuro con 8 maná, puedes invocar un Familiar Mayor: una [**Bestia de Desafío](https://app.notion.com/p/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) 1/4 o inferior** . El Familiar Mayor **puede atacar** como acción bono (usando tu bonificación de ataque de conjuro). El sacrificio de PG máximos es de **3** en lugar de 1.

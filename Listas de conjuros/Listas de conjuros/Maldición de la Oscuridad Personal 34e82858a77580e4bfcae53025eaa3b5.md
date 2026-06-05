@@ -7,7 +7,7 @@ Rango: 2 casillas
 Componentes: M, S, V
 Materiales: Polvo de carbón mezclado con cera negra, 5 PO, consumible
 Duración: Hasta ser disipada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: La luz no lo abandona: él abandona la luz. Cada vez más, y sin querer.
 

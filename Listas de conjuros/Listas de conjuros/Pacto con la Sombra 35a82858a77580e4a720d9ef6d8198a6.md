@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Sangre fresca del lanzador, un espejo negro sin reflejo, y medianoche exacta como condición temporal
 Duración: Especial 
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Tu alma firma donde no hay tinta; el precio es siempre más alto de lo que parece.
 

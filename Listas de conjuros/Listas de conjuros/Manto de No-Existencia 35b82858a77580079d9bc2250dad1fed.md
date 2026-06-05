@@ -7,13 +7,13 @@ Rango: Personal
 Componentes: M, S, V
 Materiales: Un velo tejido con hilo de araña plateada y polvo de luna nueva, 200 po
 Duración: Concentración, hasta 8 horas
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Quien te mira simplemente olvida que estás ahí, como se olvida el aire que se respira.
 
 Tu presencia se vuelve mágicamente insignificante para los sentidos y la memoria. Obtienes los siguientes beneficios:
 
-- Eres tratado como [**Invisible**](https://www.notion.so/Invisible-33882858a77580909e19f3577e33b8c8?pvs=21) para todas las criaturas que no te hayan visto en los últimos 30 segundos (5 rondas). Las que ya te observaban pueden seguir haciéndolo, pero si te pierden de vista aunque sea un instante, te olvidan.
+- Eres tratado como [**Invisible**](https://app.notion.com/p/Invisible-33882858a77580909e19f3577e33b8c8?pvs=21) para todas las criaturas que no te hayan visto en los últimos 30 segundos (5 rondas). Las que ya te observaban pueden seguir haciéndolo, pero si te pierden de vista aunque sea un instante, te olvidan.
 - Las tiradas de Percepción activa contra ti tienen **desventaja**.
 - Si una criatura te ataca o interactúa contigo de forma hostil, el efecto se rompe **solo para esa criatura** durante 1 minuto; el resto sigue sin notarte.
 - Las criaturas que ya te ignoraban no recuerdan haberte visto cuando el conjuro termina (salvación de Sabiduría CD de conjuro para retener el recuerdo).

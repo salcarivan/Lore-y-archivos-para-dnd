@@ -7,7 +7,7 @@ Rango: 30 casillas
 Componentes: M, S, V
 Materiales: Un cristal negro tallado con runas de ocultación, valor 2.000 po, consumido
 Duración: Concentración, hasta 8 horas
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: Yes
 Breve descripción: La oscuridad se convierte en arquitecto; reordena el espacio para que los intrusos se pierdan para siempre.
 

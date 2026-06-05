@@ -7,7 +7,7 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Polvo de ámbar
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Cuatro luciérnagas doradas penetran en los ojos y susurran recuerdos ajenos hasta aturdir la mente.
 

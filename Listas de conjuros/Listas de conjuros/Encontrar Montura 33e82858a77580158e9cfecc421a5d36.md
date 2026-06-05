@@ -7,11 +7,11 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Una brida de cuero trenzado con hilo de plata, 10 PO
 Duración: Hasta ser descartada
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Un espíritu de pura lealtad toma forma bestial, vinculándose a ti con una devoción sobrenatural.
 
-Conjuras un espíritu en un espacio desocupado dentro del alcance que adopta la forma de una [bestia](https://www.notion.so/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) cuadrúpeda de CR ½ o inferior, de tamaño Mediano o Grande, que hayas visto en vida. Tu montura se vincula a ti de forma instantánea.
+Conjuras un espíritu en un espacio desocupado dentro del alcance que adopta la forma de una [bestia](https://app.notion.com/p/Bestiario-33982858a7758088a416d814dc1db690?pvs=21) cuadrúpeda de CR ½ o inferior, de tamaño Mediano o Grande, que hayas visto en vida. Tu montura se vincula a ti de forma instantánea.
 
 **Estadísticas.** Tu montura usa el bloque de estadísticas de la bestia elegida, pero su tipo de criatura cambia según tu alineamiento: Celestial (bien), Feérico (neutral) o Infernal (mal). Su puntuación de Inteligencia se convierte en 6 si era inferior, y puede entender un idioma que tú hables.
 

@@ -7,7 +7,7 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Un hilo de oro trenzado, 30 PO, consumible
 Duración: Instantánea
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: El hilo del tiempo se estira, los dedos del destino lo atrapan y lo atan a una nueva dirección.
 

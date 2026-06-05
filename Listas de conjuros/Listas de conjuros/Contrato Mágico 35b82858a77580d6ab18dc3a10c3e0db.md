@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Pergamino de piel de basilisco y tinta de sangre de las dos partes contratantes, 300 po; se consume
 Duración: Permanente hasta cumplirse o romperse
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Las palabras escritas con sangre y voluntad tienen el peso del destino; el universo las recuerda.
 

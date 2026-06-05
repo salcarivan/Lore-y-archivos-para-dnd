@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción
 Rango: Personal (radio 2 casillas)
 Componentes: S, V
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Una luz tenue emana de ti y cobija a los cercanos; los golpes que los encontrarían rebotan.
 

@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Hilo de seda plateada y una aguja de plata, 50 p
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Las telas imposibles caen sobre los hombros del portador como agua de plata; nadie podrá apartar la mirada.
 

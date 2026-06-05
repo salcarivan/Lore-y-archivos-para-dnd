@@ -7,7 +7,7 @@ Rango:  20 casillas
 Componentes: M, S, V
 Materiales: Dos anillos de metal fundido juntos y separados, 100 po
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Abres dos puertas donde no hay ninguna, y entre ellas el espacio colapsa en un paso.
 

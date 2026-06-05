@@ -7,7 +7,7 @@ Rango: 12 casillas, radio 3 casillas
 Componentes: M, S, V
 Materiales: Un puñado de huesos triturados
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Fragmentos de esqueletos rotos giran en remolino mortal, convirtiendo los restos en cuchillas.
 
@@ -15,7 +15,7 @@ Requiere que haya restos óseos, un cadáver o una criatura muerta en el área o
 
 | Resultado | Efecto |
 | --- | --- |
-| **Fallo** | 6d8 de daño **Cortante** y queda [**Ensangrentada](https://www.notion.so/Ensangrentado-33882858a775802688cbd38ebf01d221?pvs=21) (nivel 1, dado d12)** |
+| **Fallo** | 6d8 de daño **Cortante** y queda [**Ensangrentada](https://app.notion.com/p/Ensangrentado-33882858a775802688cbd38ebf01d221?pvs=21) (nivel 1, dado d12)** |
 | **Éxito** | Mitad del daño, sin condición |
 
 Al inicio de cada turno, las criaturas en el área repiten la salvación o reciben 2d8 Cortante. El torbellino puede moverse hasta 3 casillas por turno (acción bono del lanzador).
@@ -32,4 +32,4 @@ El torbellino absorbe también a las criaturas que matan: si una criatura muere 
 
 **Coste:** 8 maná | **Radio:** 5 casillas (25 pies) | **Movimiento:** 5 casillas por turno
 
-Las criaturas que fallen la salvación son empujadas 1 casilla hacia el centro del torbellino y quedan [**Agarradas**](https://www.notion.so/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) por el vórtice (CD de escape = CD del conjuro, acción). Una criatura Agarrada no puede escapar por movimiento voluntario.
+Las criaturas que fallen la salvación son empujadas 1 casilla hacia el centro del torbellino y quedan [**Agarradas**](https://app.notion.com/p/Agarrado-33882858a775804b905fc12b947277d5?pvs=21) por el vórtice (CD de escape = CD del conjuro, acción). Una criatura Agarrada no puede escapar por movimiento voluntario.

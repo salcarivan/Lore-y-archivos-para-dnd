@@ -7,7 +7,7 @@ Rango:  800 casillas
 Componentes: M, S, V
 Materiales: Un pequeño retrato tuyo enmarcado en plata, 25 po
 Duración: Concentración, hasta 1 día
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Tu silueta aparece lejos; hablas, actúas y engañas desde la seguridad del vacío.
 

@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción
 Rango: 12 casillas, línea de 12 casillas de largo y 1 de ancho
 Componentes: S, V
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: El aire se hace cuchilla; la tormenta corta hueso y armadura sin distinción.
 
@@ -16,4 +16,4 @@ Las armaduras pesadas no mágicas ofrecen su CA normal; las ligeras otorgan desv
 
 ### **Variante de 7º círculo – *Tempestad de Acero*** (11 maná)
 
-La línea se expande a 2 casillas de ancho. El daño base sube a 10d8. Las criaturas que fallen la salvación quedan también [**Ensangrentadas**](https://www.notion.so/Ensangrentado-33882858a775802688cbd38ebf01d221?pvs=21) (nivel 1, las cuchillas de viento laceran tejidos). Puedes lanzar hasta 2 líneas simultáneas desde el mismo punto de origen, pudiendo apuntar en ángulos distintos.
+La línea se expande a 2 casillas de ancho. El daño base sube a 10d8. Las criaturas que fallen la salvación quedan también [**Ensangrentadas**](https://app.notion.com/p/Ensangrentado-33882858a775802688cbd38ebf01d221?pvs=21) (nivel 1, las cuchillas de viento laceran tejidos). Puedes lanzar hasta 2 líneas simultáneas desde el mismo punto de origen, pudiendo apuntar en ángulos distintos.

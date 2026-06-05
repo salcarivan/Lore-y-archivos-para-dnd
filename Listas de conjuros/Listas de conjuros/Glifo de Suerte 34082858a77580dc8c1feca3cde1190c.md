@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Una moneda de oro lanzada al aire durante el ritual, 1 PO
 Duración: Hasta activarse o hasta 30 días
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Runas de destino tejidas con fortuna aguardan para inclinar la balanza en el momento más decisivo.
 

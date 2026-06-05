@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 reacción
 Rango: 12 casillas
 Componentes: S, V
 Duración: Instantáneo (el hielo persiste 1 minuto)
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: El suelo se congela en un instante cuando el enemigo avanza; queda atrapado.
 

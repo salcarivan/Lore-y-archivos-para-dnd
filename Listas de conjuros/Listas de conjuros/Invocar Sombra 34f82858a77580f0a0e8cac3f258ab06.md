@@ -7,7 +7,7 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Un trozo de seda negra quemada en oscuridad absoluta, 15 PO, consumible
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: No tiene forma propia; toma la tuya, y la tuya se parece cada vez más a la suya.
 

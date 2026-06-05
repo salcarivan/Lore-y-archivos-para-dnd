@@ -7,7 +7,7 @@ Rango: 4 casillas, tú y hasta 8 criaturas voluntarias
 Componentes: M, V
 Materiales: Arena de playa de un lugar que hayas visitado, 75 po
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: El espacio se dobla bajo tu voluntad; todos los que te rodean llegan antes de haber partido.
 

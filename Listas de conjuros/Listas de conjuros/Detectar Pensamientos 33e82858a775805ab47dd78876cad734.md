@@ -7,7 +7,7 @@ Rango: Personal (radio 12 casillas)
 Componentes: M, S, V
 Materiales: Un cobre de cualquier moneda sostenido entre los dedos
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Los pensamientos ajenos se filtran como susurros bajo el agua, claros si te acercas lo suficiente.
 

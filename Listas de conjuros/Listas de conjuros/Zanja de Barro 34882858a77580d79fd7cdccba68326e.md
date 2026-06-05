@@ -7,7 +7,7 @@ Rango: Línea de 6 casillas × 1 casilla de ancho, profundidad 1 casilla
 Componentes: M, S, V
 Materiales: Un poco de tierra mojada
 Duración: Concentración, hasta 10 minutos
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: El suelo se abre en una grieta fangosa que succiona las botas y atrapa los pasos más decididos.
 

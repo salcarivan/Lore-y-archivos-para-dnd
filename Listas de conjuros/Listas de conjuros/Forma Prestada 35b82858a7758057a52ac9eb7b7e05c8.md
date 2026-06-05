@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Un espejo que haya reflejado al objetivo durante al menos 1 hora continua, 200 po
 Duración: 24 horas
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Tu carne aprende la forma de otro con una fidelidad tan perfecta que engaña hasta a su madre.
 

@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Limaduras de hierro y resina, 15 PO, consumidos
 Duración: Hasta activarse o hasta 30 días
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: Yes
 Breve descripción: Runas de tierra y metal aguardan bajo el polvo, listas para brotar en cadenas de energía sólida.
 

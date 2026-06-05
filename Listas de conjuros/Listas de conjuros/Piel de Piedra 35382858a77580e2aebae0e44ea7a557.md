@@ -7,7 +7,7 @@ Rango: Toque
 Componentes: M, S, V
 Materiales: Un diamante en polvo, 100 po; se consume
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: La piel se endurece hasta volverse granito gris; los golpes que antes partirían huesos ahora apenas arañan la superficie.
 

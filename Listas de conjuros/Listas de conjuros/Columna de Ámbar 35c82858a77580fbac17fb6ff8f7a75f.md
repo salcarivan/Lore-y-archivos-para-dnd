@@ -7,13 +7,13 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Resina de árbol milenario y polvo de topacio, 150 po, consumidos
 Duración: Hasta 24 horas o hasta condición de liberación
-Tipo duración: Intervalo de tiempo (https://www.notion.so/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Tipo duración: Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Ritual: No
 Breve descripción: Una columna de ámbar solidificado surge del suelo y engulle al objetivo en su interior translúcido.
 
 El objetivo debe superar una **salvación de Destreza (CD de lanzamiento)**. Si falla, queda **encerrado en una columna de ámbar** de 1 casilla de diámetro y 3 casillas de alto. Mientras dure:
 
-- El objetivo queda [**Paralizado**](https://www.notion.so/Paralizado-33882858a77580aaa5adc389a1cb8b9d?pvs=21) e [**Inmovilizado**](https://www.notion.so/Inmovilizado-33882858a77580c6a8e0eb136b948008?pvs=21).
+- El objetivo queda [**Paralizado**](https://app.notion.com/p/Paralizado-33882858a77580aaa5adc389a1cb8b9d?pvs=21) e [**Inmovilizado**](https://app.notion.com/p/Inmovilizado-33882858a77580c6a8e0eb136b948008?pvs=21).
 - El objetivo es **invulnerable a todo daño** (el ámbar lo protege completamente).
 - El objetivo no necesita comer, beber ni respirar.
 - El objetivo está **consciente** y puede ver fuera del ámbar pero no interactuar.

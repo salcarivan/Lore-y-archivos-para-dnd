@@ -6,7 +6,7 @@ Tiempo de lanzamiento: 1 acción bono
 Rango: Personal
 Componentes: S, V
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Tu cuerpo se vuelve parcialmente etéreo, los golpes te atraviesan parcialmente y tus pasos no hacen ruido.
 

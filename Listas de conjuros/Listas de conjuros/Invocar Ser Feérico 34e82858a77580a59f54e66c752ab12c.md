@@ -7,7 +7,7 @@ Rango: 6 casillas
 Componentes: M, S, V
 Materiales: Una flor silvestre, una gota de miel y una moneda de plata lanzada al suelo, 5 PO, consumible
 Duración: Concentración, hasta 1 hora
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: De entre los velos del Feywild surge algo que parece una flor, hasta que sonríe.
 

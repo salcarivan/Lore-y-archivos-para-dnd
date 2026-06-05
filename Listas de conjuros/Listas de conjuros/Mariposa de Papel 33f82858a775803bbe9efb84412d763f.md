@@ -7,7 +7,7 @@ Rango: 12 casillas
 Componentes: M, S, V
 Materiales: Cuatro cuadrados de papel doblado
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Cuatro mariposas de papel desplegadas vuelan hacia sus destinatarios portando efímeras bendiciones sanadoras.
 

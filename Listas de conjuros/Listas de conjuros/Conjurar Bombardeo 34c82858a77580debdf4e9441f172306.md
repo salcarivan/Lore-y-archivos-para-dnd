@@ -7,7 +7,7 @@ Rango: Toque (arma portada por una criatura voluntaria en 2 casillas)
 Componentes: M, S, V
 Materiales: Un fragmento de cuarzo y pólvora de hueso, 5 PO, consumible
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: El arma desaparece en un destello y regresa multiplicada en una lluvia de impactos furiosos.
 

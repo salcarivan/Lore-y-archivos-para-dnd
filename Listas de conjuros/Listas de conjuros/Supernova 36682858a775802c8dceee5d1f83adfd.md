@@ -7,7 +7,7 @@ Rango: 20 casillas (radio desde un punto elegido a 100 pies)
 Componentes: M, S, V
 Materiales: Un fragmento de meteorito, valor 1.000 po, consumido
 Duración: Instantáneo
-Tipo duración: Instantáneo (https://www.notion.so/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Tipo duración: Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Ritual: No
 Breve descripción: Una explosión de energía estelar arrasa con todo en el campo de batalla en un instante.
 

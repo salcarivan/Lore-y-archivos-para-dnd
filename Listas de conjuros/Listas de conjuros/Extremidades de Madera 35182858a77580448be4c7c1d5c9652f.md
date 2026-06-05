@@ -7,7 +7,7 @@ Rango: Personal
 Componentes: M, S, V
 Materiales: Una ramita de árbol centenari
 Duración: Concentración, hasta 1 minuto
-Tipo duración: Concentración (https://www.notion.so/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Tipo duración: Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
 Ritual: No
 Breve descripción: Los brazos se alargan en raíces y ramas vivas; la naturaleza misma extiende su alcance a través del lanzador.
 
@@ -16,7 +16,7 @@ Tus extremidades se convierten en madera viva y flexible. Durante la duración:
 - **Inmunidad a ser agarrado o inmovilizado** por medios físicos.
 - Tus brazos tienen un **alcance de 4 casillas**  e infligen **3d8 daño contundente**.
 - Al impactar, puedes intentar **agarrar** al objetivo sin usar la acción Agarrar.
-- Como acción adicional: **raíces** en radio de 4 casillas; criaturas en contacto con el suelo que fallen una **salvación de Fuerza** quedan [**Inmovilizadas**](https://www.notion.so/Inmovilizado-33882858a77580c6a8e0eb136b948008?pvs=21) hasta el final de su siguiente turno.
+- Como acción adicional: **raíces** en radio de 4 casillas; criaturas en contacto con el suelo que fallen una **salvación de Fuerza** quedan [**Inmovilizadas**](https://app.notion.com/p/Inmovilizado-33882858a77580c6a8e0eb136b948008?pvs=21) hasta el final de su siguiente turno.
 
 ---
 
