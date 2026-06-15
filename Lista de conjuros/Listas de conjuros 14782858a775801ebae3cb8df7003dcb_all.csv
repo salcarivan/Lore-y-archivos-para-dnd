@@ -501,3 +501,20 @@ Espejismo de Oasis,"El agua reluce en la distancia; quien la desea demasiado, la
 Calor Implacable,El sol del desierto no castiga; simplemente consume todo lo que toca sin remedio.,"S, V",Instantáneo,"Energía, Ruina",,4º círculo,20 casillas (área: cono de 8 casillas),No,1 acción,Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
 Descanso de Caravana,Quien duerme bajo este conjuro sueña con agua fresca y despierta con el viento.,"M, S, V",8 horas,"Destino, Restauración","Aceite perfumado de ámbar y especias del desierto, 25 PO, consumible",4º círculo,Personal (radio 8 casillas),No,10 minutos,Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
 Marea de Arena,"La duna no avanza: se desploma, y todo lo que estaba delante ya no existe.","M, S, V",Instantáneo,"Catálisis, Cénit","Puñado de arena del desierto, consumible",5º círculo,"30 casillas (línea de 12 casillas de largo, 3 casillas de ancho)",No,1 acción,Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Chispazo Inestable,"Un dardo de energía sin forma definida escupe del Tapiz, indeciso entre existir y no existir.","S, V",Instantáneo,"Cinético, Realidad",,Truco,12 casillas,No,1 acción,Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Eco de lo Innombrable,Proyectas un fragmento de la nada anterior al Tapiz; las mentes cercanas recuerdan un vacío que nunca vivieron.,"M, S, V","Concentración, hasta 1 minuto","Mente, Realidad","Una esquirla de un Jirón conservada en cristal, 80 PO",4º círculo,18 casillas (esfera de radio 4 casillas),No,1 acción,Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Marea Primordial,"Una ola de sustancia precreacional —ni líquida, ni sólida, ni cálida, ni fría— arrasa la línea elegida.
+
+
+
+","M, S, V",Instantáneo,"Catálisis, Realidad","Un frasco con agua de un Nudo recién formado, 150 PO, consumible",5º círculo,18 casillas (línea de 12 casillas de largo y 3 de ancho),No,1 acción,Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Marca del Silencio,Imprimes en el objetivo una señal invisible que el Tapiz reconoce como vacío y ausencia.,"M, S, V",24 horas,"Destino, Ruina",Ceniza de pergamino mágico quemado,1º círculo,10 casillas,Yes,10 minutos,Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Maldición Supresora,Las palabras de maldición se hunden en la mente del objetivo como piedras en agua silenciada.,"S, V"," Concentración, hasta 1 minuto","Mente, Ruina",,4º círculo,12 casillas,No,1 acción,Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
+Drenaje Vital,"Extiendes la mano y el hilo vital del objetivo se destensa, pálido y frío como ceniza.","S, V"," Instantáneo","Cinético, Ruina",,4º círculo," 10 casillas",No,1 acción,Instantáneo (https://app.notion.com/p/Instant-neo-fd7b6c1ffff0428884c14c221d445309?pvs=21)
+Zona de Silencio Absoluto,El sonido muere. La magia tartamudea. El área entera olvida cómo ser arcana.,"M, S","
+ 1 hora","Destino, Realidad","Polvo de ópalo negro y carbón de un grimorio quemado, 200 PO, consumible",5º círculo,20 casillas (esfera de radio 6 casillas),Yes,10 minutos,Intervalo de tiempo (https://app.notion.com/p/Intervalo-de-tiempo-15b82858a775800db5ebfb0fb6129245?pvs=21)
+Visión del Espíritu Ancestral,"Abres los ojos del espíritu que te acompaña; el mundo ya no puede mentirte.
+
+
+
+","M, S, V","Concentración, hasta 1 hora","Destino, Espejismo","Un ojo de ave rapaz nocturna envuelto en hilo de plata, 75 PO",5º círculo,Personal,No,1 acción,Concentración (https://app.notion.com/p/Concentraci-n-ae225ac34e8d45eaa1895be889d50718?pvs=21)
