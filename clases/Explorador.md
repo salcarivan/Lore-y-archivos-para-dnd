@@ -52,10 +52,6 @@ Nivel 18: 9
 Nivel 20: 10
 ## Nivel 2 - Lanzamiento de conjuros
 Eres un lanzador de conjuros parcial, que usa sabiduría como característica de lanzamiento de conjuros. Cada día preparas las siguiente cantidad de conjuros: elige un número de conjuros igual a tu modificador de Sabiduría + tu nivel de explorador (mínimo de un conjuro). Puedes lanzar rituales y usar un foco primarios como foco de lanzamiento de conjuros. No puedes acceder a todas las esferas, a nivel 1 puedes acceder a dos esferas y ese número aumenta por niveles hasta llegar a 5 en el nivel 20.No puedes acceder a conjuros fuera  de una esfera elegida.
-## Nivel 2 - Técnicas de superviencia
-Auqnue tienes puntos de técnica que puedes usar en cualquier árbol de técnicas el explorador no tiene técnicas propias.
-
-Es una clase mitad por lo que su máximo de puntos de puntos de técnica es de 8.
 ## Nivel 3 - Cónclave de explorador
 Los exploradores son expertos rastreadores, cazadores y tramperos. Pero no hay dos exploradores que cacen igual: tus preferencias personales definen tu estilo de caza. ¿Eres un lobo solitario o el líder de una manada? ¿Prefieres armas, hechizos o trampas? ¿Dónde cazas y qué tipo de presas buscas?
 ### Como crear un cónclave
