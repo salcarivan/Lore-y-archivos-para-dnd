@@ -17,11 +17,18 @@ Eres un lanzador de conjuros completo, que usa sabiduría como característica d
 Tu fe ha comenzado a manifestarse de una manera específica. Elige una de las siguientes opciones.
 No puedes elegir una opción más de una vez, incluso si más adelante
 tienes la oportunidad de elegir de nuevo.
-- **Sanador:**Siempre que hagas que una criatura recupere Puntos de Golpe al lanzar un Conjuro de 1º círculo o superior, o usar una Habilidad de Clérigo, puedes añadir 1d6 al total.
-- **Inquisidor:** Una vez por turno, cuando dañes a una criatura con un Truco, un Ataque con Arma o un Golpe Desarmado, puedes infligir 1d6 de daño Radiante o Necrótico adicional (a tu elección).
-- **Predicador:** Con los Conjuros que lances que requieran Componentes Verbales y tengan un alcance distinto a "Yo", puedes usar tu Reacción para duplicar el alcance.
-- **Escriba:** Aprendes un Truco adicional a tu elección de la Lista de Conjuros de una de tus esferas concoidas.
-- **Guardia:** Mientras lleves Armadura y empuñes un Escudo, tienes Ventaja en las Pruebas y Tiradas de Salvación para evitar ser tumbado.
+### Cruzado
+Te has entrenado para servir a lo divino en el campo de batalla. Obtienes competencia con armadura pesada y un arma marcial de tu elección, a menudo una considerada sagrada para tu deidad.
+
+### Monástico
+Has renunciado a los placeres mundanos para conectar mejor con lo divino. Obtienes competencia con un conjunto de herramientas de artesano de tu elección y con Perspicacia, Medicina o Percepción.
+
+Además, siempre que no lleves armadura ni escudo y solo empuñes armas contundentes, tu Clase de Armadura es igual a 10 + tu modificador de Destreza + tu modificador de Sabiduría.
+
+### Escolástico
+Dedicas tu mente al servicio de lo divino. Aprendes a hablar, leer y escribir Celestial (u otro idioma sagrado para tu deidad) y obtienes competencia en Historia o Religión. Si ya tienes competencia en esa habilidad, añades el doble de tu Bonificador de Competencia a cualquier tirada que realices con ella.
+
+También aprendes un truco de clérigo adicional de tu elección, pero no cuenta para el total de trucos conocidos. Consulta la función de Lanzamiento de hechizos a continuación para obtener más detalles sobre los trucos.
 ## Nivel 2- Canalizar divinidad
 Obtienes la capacidad de canalizar energía divina directamente de tu Custodio, usándola para potenciar
 efectos especiales. Comienzas con uno de estos efectos: Canalizar Poder Divino, y obtienes un efecto adicional determinado
