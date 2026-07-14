@@ -35,7 +35,6 @@ Puedes usar esta característica para replicar cualquier objeto de rareza Común
 ## Nivel 3 -Especialización de inventor
 ### Plantilla para Crear una Especialización
 1. **Define el tema central:** Elige un enfoque narrativo y mecánico claro (armas, criaturas, objetos, química, runas, infiltración...). Toda la especialización debe poder resumirse en un párrafo con lore.
-2. **Conjuros de Especialización:** Los conclave mundo amplían la lista de hechizos, estos conjuros no cuentan para tus conjuros conocidos. Añade 2 opciones de conjuros de 1 º círculo obtenido a nivel 3, 2 opciones de conjuro de 2º círculo obtenido a nivel 5, 2 opciones de conjuro de 3º círculo obtenidos a nivel 9, dos opciones de conjuro de 4º círculo obtenidos a nivel 13 y 2 opciones de conjuro de 5º círculo obtenidos a nivel 17.
 3. **Rasgo de Identidad (nivel 3):** El primer rasgo es el que define la fantasía de la subclase. Debe otorgar una herramienta, compañero, sistema o capacidad único que no pueda obtenerse de ninguna otra forma, y que dé sentido a todos los Módulos posteriores.
 4. **Módulos de Especialización:** Crea entre 10 y 15 Módulos exclusivos de la subclase, organizados en niveles de acceso (sin requisito, nivel 5, nivel 9, nivel 11, nivel 15). Cada Módulo debe seguir estas reglas:
 - Ser narrativamente coherente con el tema (un Golemante no tiene módulos de alquimia).
