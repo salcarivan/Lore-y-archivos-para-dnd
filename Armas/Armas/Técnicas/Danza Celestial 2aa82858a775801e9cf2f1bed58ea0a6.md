@@ -1,0 +1,6 @@
+# Danza Celestial
+
+Tipo: Avanzada
+Cúando: Tomas la acción de https://app.notion.com/p/14882858a7758099a33cd248a61abe05?pvs=21.
+
+Mientras esquivas, puedes hacer **un ataque libre, si** golpeas al mismo objetivo en el mismo turno, infliges **+1d6 daño contundente**.
