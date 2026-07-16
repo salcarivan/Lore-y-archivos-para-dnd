@@ -67,7 +67,6 @@ Los **Puntos de Técnica** (PT) son el recurso que determina cuántas técnicas 
 | --- | --- | --- | --- | --- |
 | **Guerrero** | Guerrero | Nivel 1 | Mayor cantidad de PT de todas las clases | 14 |
 | **Completa** | Bárbaro, Pícaro, Comandante | Nivel 2 | — | 11 |
-| **Mitad** | Explorador, Paladín | Nivel 2 | Aprenden más despacio | 8 |
 | **Tercio** | Sublcases marciales de lanzadores (ej. Bardo Espadas) | Nivel 3 | La menor cantidad de PT | 5 |
 | **Especial** | Monje, Atávico | Nivel 2 | No tienen mucho puntos de técnica , pero los recuperan en **descansos cortos** | 7 |
 

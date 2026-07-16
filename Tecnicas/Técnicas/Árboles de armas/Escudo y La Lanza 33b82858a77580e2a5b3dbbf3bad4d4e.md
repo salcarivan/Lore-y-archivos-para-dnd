@@ -1,7 +1,7 @@
 # Escudo y La Lanza
 
 Descripción: La táctica defensiva: mantener al enemigo a raya, proteger aliados y combatir en formación.
-Armería: Tridente (https://www.notion.so/Tridente-25082858a775806ca019d995f54f41fa?pvs=21), Lanza de caballería (https://www.notion.so/Lanza-de-caballer-a-25182858a77580538fd6fb558c2f9327?pvs=21), Estoque (https://www.notion.so/Estoque-25182858a775807cab5beda6321f92ee?pvs=21), Kpinga (https://www.notion.so/Kpinga-25182858a77580eaadbafd9869704fea?pvs=21), Porra (https://www.notion.so/Porra-25182858a7758010b13bffc820a26f98?pvs=21)
+Armería: Tridente (https://app.notion.com/p/Tridente-25082858a775806ca019d995f54f41fa?pvs=21), Lanza de caballería (https://app.notion.com/p/Lanza-de-caballer-a-25182858a77580538fd6fb558c2f9327?pvs=21), Estoque (https://app.notion.com/p/Estoque-25182858a775807cab5beda6321f92ee?pvs=21), Kpinga (https://app.notion.com/p/Kpinga-25182858a77580eaadbafd9869704fea?pvs=21), Porra (https://app.notion.com/p/Porra-25182858a7758010b13bffc820a26f98?pvs=21)
 
 # Técnicas Básicas
 

@@ -1,3 +1,0 @@
-# Desgarradora
-
-Una vez por turno, cuando golpeas con un ataque usando un arma desgarradora, puedes causar una herida que sigue infligiendo 1 punto de daño cortante al final de cada turno del objetivo durante un número de rondas igual a tu bonificación por competencia. El daño de múltiples heridas se acumula. Como acción bonus, una criatura puede usar un kit de sanador para eliminar todas estas heridas de sí misma o de un aliado a 1 casilla.

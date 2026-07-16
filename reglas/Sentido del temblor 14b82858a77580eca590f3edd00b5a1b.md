@@ -1,3 +1,0 @@
-# Sentido del temblor
-
-Una criatura con Sentido del temblor puede determinar la ubicación de criaturas y objetos en movimiento dentro de un rango específico, siempre que la criatura con Sentido del temblor y cualquier cosa que detecte estén en contacto con la misma superficie (como el suelo, una pared o un techo) o el mismo líquido. El Sentido del temblor no puede detectar criaturas u objetos en el aire y no cuenta como una forma de visión.

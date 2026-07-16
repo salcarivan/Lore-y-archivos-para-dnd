@@ -1,7 +1,0 @@
-# Haciendo un ataque
-
-Cuando realizas la acción [Atacar](Atacar%20e3ad252d672a4ad899bb6f17f7548d20.md), realizas un ataque. Algunas otras acciones, Acciones Bono y Reacciones también te permiten realizar un ataque. Ya sea que golpees con un arma cuerpo a cuerpo, dispares un arma a distancia o realices una tirada de ataque como parte de un hechizo, un ataque tiene la siguiente estructura:
-
-1. **Elige un Objetivo.** Elige un objetivo dentro del alcance de tu ataque: una criatura, un objeto o una ubicación.
-2. **Determina los Modificadores.** El DJ determina si el objetivo tiene [Cobertura](Cobertura%2014882858a77580ef8689c4f50bbc5580.md)  y si tienes [Ventaja o Desventaja](Ventaja%20y%20desventaja%2014882858a77580c8bc9be5a56437acbb.md) contra el objetivo. Además, los hechizos, habilidades especiales y otros efectos pueden aplicar penalizaciones o bonificaciones a tu tirada de ataque.
-3. **Resuelve el Ataque.** Realiza la tirada de ataque, como se detalló anteriormente en este capítulo. En un impacto, realizas la tirada de daño a menos que el ataque en particular tenga reglas que especifiquen lo contrario. Algunos ataques causan efectos especiales además de o en lugar de daño.

@@ -1,0 +1,37 @@
+﻿Nombre,Requisitos de nivel,Requisitos,Requistos estilo pelea
+Arco Fuerte,,FUE >13,
+Combate Brutal,,FUE > 13,
+Combate con Arma de Asta,,FUE o DES >11,
+Combate con Arma Grande,,FUE >13,
+Combate con Dos Armas,,FUE o DES >13,
+Combate Defensivo,,,
+Combate Desgarrador,,DES > 13,
+Combate Equilibrado,,,
+Combate Improvisado,,FUE >11,
+Combate Peso Pesado,,FUE > 13,
+Combate Peso Pluma,,"DES > 13, Competencia en https://app.notion.com/p/14882858a77580bf8f11ee2deceaef34?pvs=21",
+Combate Versátil,,FUE o DES >11,
+Esgrima Clásica,,DES > 13,
+Experto Defensivo,6,,Combate Defensivo
+Experto en Arma de Asta,6,,Combate con Arma de Asta
+Experto en Arma Grande,6,,Combate con Arma Grande
+Experto en Combate con Dos Armas,6,,Combate con Dos Armas
+Experto en Escudos,6,,Guerrero de Escudo
+Experto en Esgrima Clásica,6,,Esgrima Clásica
+Experto en Pelea Callejera,6,,Pelea Callejera
+Experto en Protección,6,,Protección
+Experto en Tiro con Arco,6,," Tiro con Arco"
+Experto Equilibrado,6,,Combate Equilibrado
+Experto Montado,6,,Guerrero Montado
+Experto Peso Pesado,6,,Combate Peso Pesado
+Experto Peso Pluma,6,,Combate Peso Pluma
+Guerrero Ciego,,Competencia en https://app.notion.com/p/14882858a77580dfa2f3f3109c37ce89?pvs=21,
+Guerrero de Escudo,,FUE > 13,
+Guerrero Montado,,Competencia en https://app.notion.com/p/14882858a77580f4b92ef9c92a64afcc?pvs=21,
+Lanzador,,FUE o DES >11,
+Pelea Callejera,,Competencia en https://app.notion.com/p/14882858a7758017adbeca10ada6a343?pvs=21,
+Portaestandarte,,CAR > 13,
+Protección,,,
+Técnica Superior,6,,
+Tirador Cuerpo a Cuerpo,,DES >13,
+Tiro con Arco,,DES > 13,

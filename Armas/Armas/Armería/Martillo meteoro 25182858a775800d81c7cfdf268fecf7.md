@@ -1,9 +1,0 @@
-# Martillo meteoro
-
-Categoría: Marcial
-Combate: Cuerpo a cuerpo
-Daño: 2d6 contundente
-Propiedades : Alcance (../Propiedades%20de%20armas/Alcance%2025182858a775805a86bde7886e849d95.md), Imprudente (../Propiedades%20de%20armas/Imprudente%2025182858a77580e98582c4326b37bb57.md), Dos manos (../Propiedades%20de%20armas/Dos%20manos%2025082858a7758093ab38e438387bcd55.md), Torpe (../Propiedades%20de%20armas/Torpe%2025082858a77580dcb6c9f49c03f63be0.md)
-Árbol relacionado: Brazo Largo (https://www.notion.so/Brazo-Largo-33b82858a77580dea174c788fffa838b?pvs=21), Asta (https://www.notion.so/Asta-33b82858a77580ff926efcf4c9e76038?pvs=21)
-Precio: 40 po
-Volumen: 2
