@@ -1,0 +1,96 @@
+﻿Nombre,"Tipo ",Bonificador,Requisito,Requisito nivel
+Axioma Temporal,Origen,,,1
+"Acechador ",Origen,,,1
+Actor,Origen,,,1
+Duro,Origen,,,1
+Atacante Salvaje,Origen,,,1
+Frugal,Origen,,,1
+Sanador,Origen,,,1
+Aullido Telúrico,Origen,,,1
+Superviviente,Origen,,,1
+Hábil,Origen,,,1
+Fermentación Necrótica,Origen,,,1
+Resistente,Origen,,,1
+Fortuna Purificante,Origen,,,1
+Gourmet,Origen,,,1
+Artesano,Origen,,,1
+Suertudo,Origen,,,1
+Gracia del Auditorio,Origen,,,1
+Alerta,Origen,,,1
+Atacante Técnico,Origen,,,1
+Peleador de Taberna,Origen,,,1
+Maduración tardía,General,+2 a dos características de tu elección,,4
+Determinado,General,+1 a CON o SAB,CON o SAB 13,4
+Ágil,General,+1 a DES,DES 15,4
+Jugador,General,+1 a CAR o INT," CAR o INT 13",4
+Palacio Mental,General,+1 a INT o SAB,INT 15,4
+Rápido,General,+1 a DES,DES 13,4
+Experto en Habilidades,General,+1 a cualquier habilidad,INT o SAB 13,4
+Observador,General,"+1 a SAB o INT ",SAB o INT 13,4
+Mente Aguda,General,"+1 a INT o SAB ",INT 13,4
+Atleta,General,+1 a FUE o DES,FUE o DES 13,4
+Experto en Falsificar,General,+1 a INT o DES,INT o DES 13,4
+Información Útil,General,"+1 a INT o SAB ",INT 13,4
+Líder Inspirador,General,"+1 a CAR o SAB ",CAR 13,4
+Explorador de Mazmorras,General,+1 a DES o SAB,DES o SAB 13,4
+Experto en Venenos,General,+1 a INT o DES,INT o DES 13,4
+Físico Robusto,General,+1 a CON o FUE,CON o FUE 13,4
+Líder Intimidante,General,"+1 a FUE o CAR ",FUE o CAR 13,4
+Despertar Espiritual,General," +1 a SAB o CAR",SAB 13,4
+Mago de Guerra,General,+1 a INT o SAB," INT o SAB 13, capacidad de lanzar al menos un conjuro",4
+Asesino de Magos,General,+1 a DES o INT,DES o INT 13,4
+Experto en Magia de Realidad,General,"+1 a INT o SAB ","INT 17, capacidad de lanzar conjuros de nivel 5 o superior de la esfera de Realidad",4
+Experto en Magia de Origen,General,+1 a CON o SAB," CON o SAB 13, capacidad de lanzar al menos un conjuro de Origen",4
+Experto en Magia de Destino,General,+1 a SAB o INT,"SAB o INT 15, capacidad de lanzar al menos un conjuro de Destino",4
+Experto en Magia de Energía,General,+1 a INT o CON,"INT o CON 13, capacidad de lanzar al menos un conjuro de Energía",4
+Experto en Magia de Cénit,General,+1 a SAB o CAR,"SAB o CAR 15, capacidad de lanzar conjuros de nivel 3 o superior de la esfera de Cénit",4
+Experto en Magia de Espejismo,General,"+1 a INT o CAR ","INT o CAR 13, capacidad de lanzar al menos un conjuro de Espejismo",4
+Experto en Magia de Mente,General,+1 a INT o CAR," INT o CAR 13, capacidad de lanzar al menos un conjuro de Mente",4
+Experto en Magia de Catálisis,General,"+1 a INT o SAB ","INT o SAB 13, capacidad de lanzar al menos un conjuro de Catálisis",4
+Experto en Magia de Cinética,General,+1 a FUE o INT,"FUE o INT 13, capacidad de lanzar al menos un conjuro de Cinética",4
+Experto en Magia de Ruina,General,"+1 a INT o CON "," INT o CON 13, capacidad de lanzar al menos un conjuro de Ruina",4
+Experto en Magia de Restauración,General,+1 a SAB o CON,"SAB o CAR 13, capacidad de lanzar al menos un conjuro de Restauración",4
+Experto en Magia de Simbiosis,General,+1 a SAB o CON,"SAB o CON 13, capacidad de lanzar al menos un conjuro de Simbiosis",4
+Experto en Armadura Pesada,General," +1 a FUE o CON",FUE 15,4
+Campeón Agarrador,General,+1 a FUE," FUE 13",4
+Naturalmente Armado,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Escudos,General,+1 a FUE o CON (tu elección),FUE 13,4
+Combatiente Montado,General,+1 a DES o SAB (tu elección),"DES o SAB 13, competencia en Domesticar",4
+Cargador,General,+1 a FUE,FUE 13,4
+Centinela,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Armadura Media,General,+1 a FUE o CON (tu elección),FUE o CON 13,4
+Experto en Armadura Ligera,General,+1 a DES,DES 13,4
+Maestro en Armas,General,1 a FUE o DES (tu elección),FUE o DES 15,4
+Técnica Distintiva,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Iniciado en Combate,General,+1 a FUE o DES (tu elección),FUE o DES 11,4
+Duelista Defensivo,General,+1 a DES,DES 13,4
+Doble Empuñadura,General,+1 a DES,DES o FUE 13,4
+Experto en Armas de Sombra,General,+1 a DES," DES 13",4
+Experto en Armas de Proyectil,General,+1 a DES,DES 13,4
+Experto en Armas de Pólvora,General,+1 a DES,DES 13,4
+Experto en Armas de Pesca,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Armas de Lanzador Certero,General," +1 a FUE o DES (tu elección)",FUE o DES 13,4
+Experto en Armas de Hoja Ligera,General,+1 a DES,DES 13,4
+Experto en Armas de Granja,General,+1 a FUE o SAB (tu elección),FUE o DES 11,4
+Experto en Armas de Gran Destructor,General,+1 a FUE,FUE 13,4
+Experto en Armas de Gladiador,General,+1 a FUE o DES (tu elección)," FUE o DES 13",4
+Experto en Armas de Escudo y la Lanza,General,+1 a FUE,FUE 13,4
+Experto en Armas de Brazo Largo,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Armas de Asta,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Armas de Aplastador,General,+1 a FUE,FUE 13,4
+Experto en Armas de Agarre,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Experto en Armas de Acero Versátil,General,+1 a FUE o DES (tu elección),FUE o DES 13,4
+Bendición de la Visión Verdadera,Épica,+2 SAB,SAB 19 o INT 19,19
+Bendición del Espíritu de la Noche,Épica," +2 DES",DES 19 o CAR 19,19
+Bendición del Recuerdo de Hechizo,Épica," +2 a la característica de lanzamiento de tu clase",INT 19 o SAB 19 o CAR 19,19
+Bendición de la Habilidad,Épica,"+2 INT, +2 SAB",INT 19 o SAB 19,19
+Bendición de la Recuperación,Épica,+2 CON,CON 19,19
+Bendición de la Ofensiva Irresistible,Épica,+2 FUE o +2 DES,FUE 19 o DES 19,19
+Bendición de la Fortaleza,Épica,"+2 CON, +2 FUE",CON 19 o FUE 19,19
+Bendición del Destino,Épica,+2 SAB,SAB 19 o CAR 19,19
+Bendición del Viaje Dimensional,Épica," +2 INT",INT 19 o SAB 19,19
+Bendición de la Destreza en Combate,Épica,+2 FUE o +2 DES,FUE 19 o DES 19,19
+Bendición de la Fuerza de Voluntad,Épica,"+2 SAB, +2 CAR",SAB 19 o CAR 19,19
+Bendición de la Resistencia Mágica,Épica,+2 SAB,SAB 19 o CON 19,19
+Bendición de la Inmortalidad,Épica,+2 CON,CON 19,19
+Bendición del Vuelo,Épica,+2 DES,DES 19,19
