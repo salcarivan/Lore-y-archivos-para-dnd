@@ -1,0 +1,13 @@
+﻿Nombre,Nivel,Área
+Polvo de Purpurina,3,Esfera de 2 casillas de radio.
+Bomba de Mano,3,Esfera de 1 casilla de radio.
+Carga Sísmica,3,Línea de 4 casillas desde el punto de impacto.
+Raíz Enmarañada,3,Impacto directo (1 casilla de suelo de hasta 2×2 casillas).
+Pulso de Trueno,3,Cono de 3 casillas desde el punto de impacto.
+Red Alquímica,7,Esfera de 2 casillas de radio.
+Bomba Cáustica,7,Impacto directo (1 criatura u objeto) con salpicadura de 1 casilla de radio.
+Bomba Incendiaria,7,Esfera de 2 casillas de radio.
+Gas Nocivo,7,Esfera de 3 casillas de radio.
+Bomba Sísmica,13,Esfera de 3 casillas de radio.
+Carga Vitriólica,13,Impacto directo (1 criatura) con nube de 2 casillas de radio.
+Vórtice Astral,17,Esfera de 4 casillas de radio.
