@@ -1,0 +1,90 @@
+﻿Nombre,Tipo,Coste,Volumen
+Abrojos (bolsa de 20),Equipo de aventuras,1 po,"0,2"
+"Aceite ",Mezclas Alquímicas,1 po,"0,2"
+Aceite de Mente Clara,Brebajes Herbales,60 po,"0,2"
+Aceite Resbaladizo,Mezclas Alquímicas,20 po,"0,2"
+Ácido Alquímico,Mezclas Alquímicas,25 po,"0,2"
+Agua bendita (frasco),Equipo de aventuras,25 po,"0,2"
+Aguja de cerbatana,Munición,2 pc,"0,2"
+Antídoto,Brebajes Herbales,50 po,"0,2"
+Antorcha,Generador de luz,1 po,"0,2"
+Aparejo de poleas,Equipo de aventuras,1 po,1
+Ariete portátil,Equipo de aventuras,4 po,2
+Bala de honda,Munición,"0,2 pc","0,2"
+Bala de pólvora,Munición,3 pp,"0,2"
+Balanza de mercader,Equipo de aventuras,5 po,"0,2"
+Bálsamo Calmante,Brebajes Herbales,20 po,"0,2"
+Barritas de Frutos Secos y Especias,Snacks,2 po,"0,2"
+Bolsa de componentes,Foco de lanzamiento de conjuros,25 po,"0,2"
+Bomba de Humo,Mezclas Alquímicas,20 po,"0,2"
+Brebaje de Acero en el Estómago,Brebajes Herbales,15 po,"0,2"
+Campana,Equipo de aventuras,1 po,"0,2"
+Catalejo,Equipo de aventuras,1.000 po,"0,2"
+Cecina de Camino,Snacks,5 pc,"0,2"
+"Cerradura ",Equipo de aventuras,10 po,"0,2"
+Cojinetes de bolas (bolsa de 1.000),Equipo de aventuras,1 po,"0,2"
+Cristal Tronador,Mezclas Alquímicas,50 po,"0,2"
+Cuerda (10 casillas),Equipo de aventuras,1 po,1
+Disfraz,Equipo de aventuras,5 po,1
+Escalera (2 casillas),Equipo de aventuras,1 pp,1
+Espejo compacto,Equipo de aventuras,5 po,"0,2"
+Esposas,Equipo de aventuras,2,1
+Estuche para mapas o pergaminos,Equipo de aventuras,1 po,1
+Flecha,Munición,5 pc,"0,2"
+Foco arcano,Foco de lanzamiento de conjuros,5 po,1
+Foco de conocimiento,Foco de lanzamiento de conjuros,5 po,1
+Foco primario,Foco de lanzamiento de conjuros,5 po,1
+Foco sombrío,Foco de lanzamiento de conjuros,5 po,1
+Fuego Alquímico,Mezclas Alquímicas,50 po,"0,2"
+Galletas de Avena y Miel,Snacks,5 pc,"0,2"
+Infusión Vigorizante,Brebajes Herbales,20 po,"0,2"
+Juego de vajilla,Equipo de aventuras,2 pp,1
+Libro,Equipo de aventuras,25 po,1
+Linterna,Generador de luz,5 po,1
+Lupa,Equipo de aventuras,100 po,"0,2"
+Manta,Equipo de aventuras,5 pp,1
+Mapa,Equipo de aventuras,1 po,"0,2"
+Olla de hierro,Equipo de aventuras,2 po,2
+Pala,Equipo de aventuras,2 po,1
+Palanca,Equipo de aventuras,2 po,1
+Papel (una hoja),Equipo de aventuras,2 pp,0
+Pastel de Miel y Hierbas,Snacks,15 po,"0,2"
+Pegamento Instantáneo,Mezclas Alquímicas,30 po,"0,2"
+"Perdigones ",Munición,5 po,"0,2"
+Perfume,Brebajes Herbales,25 po,"0,2"
+"Pergamino (una hoja) ",Equipo de aventuras,1 pp,0
+Pértiga (2 casillas),Equipo de aventuras,5 pc,1
+Picos de hierro (10),Equipo de aventuras,1 po,1
+Pluma para tinta,Equipo de aventuras,2 pc,"0,2"
+Poción de Aliento Limpio,Poción,35 po,"0,2"
+Poción de Curación,Poción,50 po,"0,2"
+Poción de Escudo Etéreo,Poción,80,"0,2"
+Poción de Maná,Poción,80 po,"0,2"
+Pólvora,Mezclas Alquímicas,35 po,"0,2"
+Queso de Corteza Dura,Snacks,8 pc,"0,2"
+Raciones (1 día),Equipo de aventuras,5 pp,"0,2"
+Ropa de viajero,Ropa,5 pp,1
+Ropa fina,Ropa,15 po,1
+Saco de dormir,Equipo de aventuras,1 po,1
+Sales Reactivas,Mezclas Alquímicas,25 po,"0,2"
+Silbato de señales,Equipo de aventuras,5 pc,"0,2"
+Símbolo sagrado,Foco de lanzamiento de conjuros,5 po,1
+Sopa de Viajero en Pastilla,Snacks,3 po,
+Tienda para dos personas,Equipo de aventuras,2 po,2
+Tinta (botella de 30 ml),Equipo de aventuras,10 po,"0,2"
+Tónico de Paso Ligero,Brebajes Herbales,40 po,"0,2"
+Trampa de Caza,Equipo de aventuras,5 po,2
+Túnica,Ropa,1 po,1
+Ungüento de Cierre de Heridas,Brebajes Herbales,30 po,"0,2"
+Ungüento de Piel de Corteza,Brebajes Herbales,75 po,"0,2"
+Ungüento Repelente,Brebajes Herbales,15 po,"0,2"
+"Vela ",Generador de luz,1 pc,"0,2"
+Veneno Ácido de Víbora,Veneno,120 po,"0,2"
+Veneno Básico,Veneno,100 po,"0,2"
+Veneno de Niebla Entumecedora,Veneno,250 po,"0,2"
+Veneno de Sueño,Veneno,200 po,"0,2"
+Veneno Debilitante,Veneno,80 po,"0,2"
+Veneno Paralizante,Veneno,300 po,"0,2"
+Viento Embotellado,Mezclas Alquímicas,60 po,"0,2"
+Virotes,Munición,5 pc,"0,2"
+Yesquero,Equipo de aventuras,5 pp,"0,2"
