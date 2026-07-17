@@ -1,0 +1,30 @@
+﻿Nombre,Bultos,Habilidades asociadas,Precio (po),Tipo
+Kit de sanador,1,"INT, SAB",10,Kits
+Herramientas de ladrón,"0,2","DES, INT",25,Kits
+Kit de herborista,1,"INT, SAB",10,Kits
+Suministros de alquimista,2,"INT, SAB",50,Herramientas de artesano
+Suministros de envenenador,1,"INT, SAB",50,Kits
+Herramientas de navegante,1,"INT, SAB",25,Kits
+Herramientas de manitas,3,"DES, INT",50,Herramientas de artesano
+Herramientas de herrero,3,"DES, FUE",40,Herramientas de artesano
+Suministros de joyero,1,"DES, INT",25,Herramientas de artesano
+Suministros de calígrafo,1,"CAR, INT",10,Herramientas de artesano
+Herramientas de carpintero,3,"FUE, INT",8,Herramientas de artesano
+Utensilios de cocina,2,"INT, SAB",1,Herramientas de artesano
+Herramientas de soplador de vidrio,2,"DES, INT",30,Herramientas de artesano
+Herramientas de talabartero,2,"DES, FUE",5,Herramientas de artesano
+Herramientas de cantero,3,"FUE, INT",10,Herramientas de artesano
+Suministros de pintor,1,"CAR, DES",10,Herramientas de artesano
+Equipo de juego,,"CAR, DES",,Set
+Herramientas del alfarero,1,"DES, INT",10,Herramientas de artesano
+Kit de falsificación,1,"DES, INT",15,Kits
+Kit de disfraz,1,"CAR, SAB",25,Kits
+Instrumento musical,,"CAR, DES",,Set
+Suministros de cervecero,3,"CON, SAB",30,Herramientas de artesano
+Kit de escalada,1,"DES, FUE",25,Kits
+"Herramientas de tejedor ",1,"DES, INT",1,Herramientas de artesano
+Herramientas de ebanista,1,"DES, SAB",2,Herramientas de artesano
+Herramientas de cartógrafo,1,"INT, SAB",15,Herramientas de artesano
+Herramientas de trampero,2,"DES, INT",2,Herramientas de artesano
+Aparejos de pesca,2,"DES, SAB",1,Kits
+Suministros de tatuador,1,"DES, INT",20,Kits
