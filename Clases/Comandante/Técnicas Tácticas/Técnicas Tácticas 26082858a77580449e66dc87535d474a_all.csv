@@ -1,0 +1,15 @@
+﻿Nombre,Chispa,Tipo
+Señalar el Punto Débil,Un aliado que puedas ver realiza un ataque contra una criatura que también puedas ver.,Básico
+Leer la Línea,Una criatura enemiga que puedas ver termina su turno sin haberte atacado a ti ni a ningún aliado adyacente a ti.,Básico
+Cubrir la Retirada,Un aliado que pueda oírte usa la acción de Retirarse o intenta salir del alcance de un enemigo.,Básico
+Concentrar el Fuego,Dos o más aliados que puedan oírte atacan al mismo objetivo en la misma ronda.,Avanzada
+Posición de Flanqueo," Al inicio de tu turno, un aliado y tú estáis en lados opuestos de una criatura enemiga (flanqueándola).",Avanzada
+Llamada de Reagrupamiento,"Un aliado que puedas ver tiene la condición Tumbado, Asustado o Aturdido al inicio de tu turno.",Avanzada
+Pared Viviente,Estás adyacente a al menos dos aliados y ninguno de los tres habéis abandonado vuestras casillas desde el inicio del turno anterior.,Avanzada
+Aprovechar la Apertura,Un enemigo que puedas ver falla una tirada de ataque contra ti o contra un aliado.,Avanzada
+Reasignar Prioridades,Una criatura enemiga que no ha sido atacada aún en este combate entra en el campo de visión de al menos un aliado tuyo.,Avanzada
+Sacrificio Táctico,Un aliado adyacente a ti recibe daño que lo reduciría a la mitad o menos de su Vigor máximo.,Avanzada
+Despliegue Coordinado,"Al inicio de un combate, antes de que ninguna criatura haya actuado, puedes usar esta técnica (no requiere acción).",Avanzada
+Establecer Presión,Un aliado que puedas ver impacta a una criatura que ya tiene al menos una condición activa.,Avanzada
+El Plan que Funciona,"Durante un descanso corto o antes de un combate esperado, puedes activar esta técnica (fuera de combate, 10 minutos).",Maestra
+Romper la Formación,Hay tres o más criaturas enemigas adyacentes entre sí dentro de 12 casillas de ti.,Maestra
