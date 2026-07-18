@@ -1,0 +1,45 @@
+# Colegio de la Pirueta
+
+Descripción: Movilidad extrema, burlas que hieren, daño que se esquiva.
+
+En Ankora, los bufones de la corte siempre fueron considerados los únicos mortales con licencia para decir verdades que nadie más se atrevía a pronunciar. Pero algunos descubrieron que la humillación tiene un filo más afilado que cualquier espada: el enemigo que arde de vergüenza comete errores, y el enemigo que comete errores muere. Los bardos del Colegio de la Pirueta no estudian en academias ni aprenden de maestros solemnes; aprenden cayendo, esquivando, riéndose de sus propias cicatrices y convirtiendo cada golpe fallido del enemigo en una actuación. Son presencias caóticas en el campo de batalla, imposibles de fijar y todavía más imposibles de ignorar, porque sus burlas se meten bajo la piel y se quedan ahí mucho después de que el combate haya terminado. No luchan contra sus enemigos: los ridiculizan hasta que ellos mismos se vuelven torpes y predecibles.
+
+*¿Qué te hizo elegir la humillación como arma, y hay alguien a quien todavía no te has atrevido a burlarte de frente?*
+
+# Promesas del Colegio
+
+Un bardo del Colegio de la Pirueta se compromete a:
+
+1. **Nunca quedarse quieto cuando pueda moverse**, porque un blanco que no para de bailar es un blanco que el enemigo no puede alcanzar.
+2. **Convertir cada fallo enemigo en una actuación**, respondiendo al ridículo ajeno con una burla que el mundo recuerde.
+3. **No huir nunca de quien le busque**, sino retroceder con elegancia hasta que el adversario se canse, se equivoque, o ambas cosas.
+
+# Nivel 3 — Paso del Bufón
+
+Cuando el bardo une el colegio obtiene dos beneficios permanentes.
+
+**Pirueta constante:** Cuando usas tu acción adicional para iniciar o mantener una Interpretación Bárdica, puedes moverte hasta la mitad de tu velocidad sin provocar ataques de oportunidad como parte de esa misma acción adicional.
+
+**Huida y hostigamiento:** Cuando tomas la acción adicional, puedes realizar simultáneamente las acciones **Correr** y **Retirar** como si fueran una sola. Esto significa que ese turno duplicas tu velocidad de movimiento y no provocas ataques de oportunidad, todo ello sin sacrificar tu acción principal.
+
+# Nivel 3 — Burla Afilada
+
+Como acción puedes lanzar una burla hiriente contra una criatura a 12 casillas que pueda oírte y entenderte. Esa criatura debe superar una tirada de salvación de **Sabiduría** contra tu CD de salvación de conjuros o quedar **humillada** hasta el inicio de tu siguiente turno. Una criatura humillada tiene **desventaja en la primera tirada de ataque** que realice en ese período.
+
+Puedes usar esta burla un número de veces igual a tu **modificador de Carisma** (mínimo 1). Recuperas todos los usos al finalizar un descanso largo.
+
+# Nivel 6 — Esquiva del Juglar
+
+Cuando una criatura que puedas ver te impacte con un ataque, puedes usar tu **reacción** y gastar un **dado de Inspiración Bárdica** para reducir el daño recibido a la mitad. Este efecto se aplica después de calcular el daño total pero antes de aplicar resistencias o vulnerabilidades.
+
+# Nivel 11 — Burla Veloz
+
+Puedes usar tu **Burla Afilada** como **acción adicional** en lugar de como acción. Además, cuando una criatura humillada falla la tirada de ataque sobre la que tenía desventaja por tu burla, sufre daño psíquico igual a tu dado de Inspiración Bárdica sin tirada de ataque ni salvación.
+
+# Nivel 15 — El Gran Sainete
+
+Obtienes dos mejoras definitivas que representan el dominio absoluto de la evasión y la humillación.
+
+**Blanco ingrato:** Cuando una criatura falla un ataque contra ti, acumula una marca de **desconcierto**. Cada marca otorga **−1 a todas sus tiradas de ataque futuras contra ti** (acumulable hasta −5). Las marcas desaparecen cuando la criatura completa un descanso corto o largo, o cuando tú quedas inconsciente.
+
+**Esquiva total:** Tu **Esquiva del Juglar** ahora se aplica a **cualquier fuente de daño**, no solo a ataques. Puedes usarla contra conjuros de área, trampas, caídas o cualquier otro efecto que te cause daño, siempre que gastes el dado de Inspiración como reacción. Cuando la usas contra una fuente que normalmente permitiría una tirada de salvación de Destreza para reducir el daño a la mitad, en caso de éxito no sufres daño alguno y en caso de fallo solo recibes la mitad.
