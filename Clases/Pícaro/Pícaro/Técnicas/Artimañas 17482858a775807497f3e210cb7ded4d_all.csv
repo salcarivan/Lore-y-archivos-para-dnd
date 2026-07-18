@@ -1,0 +1,16 @@
+﻿Nombre,Disparador,Tipo
+Paso de Sombra,Realizas la acción de Esconderse o te mueves al menos 2 casillas antes de atacar este turno.,Básica
+Golpe Sucio,Impactas a un objetivo que no te ha atacado este turno.,Básica
+Repliegue Veloz,Reduces a 0 PV a un enemigo con un ataque.,Básica
+Punto Vital,Tienes ventaja en la tirada de ataque o un aliado se encuentra a 1 casilla del objetivo.,Avanzado
+Emboscada Paralizante,Atacas a un objetivo que no ha actuado aún en este combate o que no puede verte.,Avanzado
+Herida Persistente,Impactas al objetivo con un arma de daño cortante o perforante.,Avanzado
+Robo Audaz," Impactas a un objetivo que lleva un objeto visible (arma, poción, bolsa, foco mágico, etc.).",Avanzado
+Finta Letal,Fallas una tirada de ataque contra un objetivo.,Avanzado
+Golpe a la Sombra,Estás oculto (con la condición Invisible o habiéndote escondido con éxito) cuando realizas el ataque,Avanzado
+Veneno Oportunista,"Impactas a un objetivo que ya está sufriendo una condición (envenenado, aturdido, asustado, etc.).",Avanzado
+Trampa Callejera,Un enemigo entra en tu alcance o se mueve dentro de él durante su turno,Avanzado
+Ejecución Calculada,El objetivo tiene la mitad o menos de sus puntos de golpe máximos (condición Ensangrentado o equivalente).,Avanzado
+Sombra Gemela,Realizas un ataque contra un objetivo a 1 casilla o menos de ti.,Avanzado
+Sentencia,"Impactas a un objetivo que no es consciente de tu presencia (sorprendido, dormido, o que no te ha detectado en este combate) y aplicas Ataque Furtivo.",Maestra
+Eclipse,"Usas esta técnica al inicio de tu turno, antes de realizar cualquier acción.",Maestra
