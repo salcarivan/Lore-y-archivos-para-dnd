@@ -1,0 +1,16 @@
+﻿Nombre,Tipo,Chispa
+Acometida Táctica,Avanzado,Te mueves al menos 4 casillas en línea recta y terminas el movimiento adyacente a un enemigo que no te había atacado aún en esta ronda.
+Aguante de Veterano,Avanzado,Tu vigor cae por debajo de la mitad de tu máximo por primera vez en este combate.
+Análisis de Combate,Avanzado,Llevas al menos 3 rondas en combate activo y no has estado Incapacitado ni alejado más de 8 casillas de tu objetivo principal en ese tiempo.
+Cadena de Mando,Avanzado,Un aliado que pueda verte u oírte está a punto de realizar una tirada de ataque
+Economía de Movimiento,Avanzado,No te has movido en absoluto durante tu turno anterior.
+El Golpe que Termina Todo,Maestra,No has realizado ningún ataque durante tu turno anterior y en tu turno actual dedicas tu acción entera a preparar este único golpe
+Golpe Devastador,Avanzado,Reduces a 0 el vigor de un enemigo con un ataque de arma.
+Golpe Sostenido,Básica,Impactas con un ataque de arma y el objetivo tiene el mismo objetivo que tú desde el inicio de tu turno anterior (llevas al menos dos rondas atacando al mismo enemigo)
+Lectura de Apertura,Básica,Un enemigo que puedas ver falla una tirada de salvación o una prueba de característica durante el combate
+Maestría Absoluta,Maestra,"Al inicio de tu turno, llevas al menos 4 rondas en combate continuo sin haber estado Incapacitado."
+Posición Ventajosa,Básica,"Al inicio de tu turno, estás en terreno elevado, en cobertura o adyacente a un obstáculo que te separa de al menos un enemigo."
+Presión de Hierro,Avanzado,Un enemigo adyacente a ti intenta realizar una acción que no sea atacarte directamente con un arma
+Respuesta Inmediata,Avanzado,Un enemigo te impacta con un ataque de arma cuerpo a cuerpo y tú tienes al menos la mitad de tu vigor máximo.
+Rompimiento de Guardia,Avanzado,Realizas tres o más ataques contra el mismo objetivo durante tu turno y al menos dos de ellos impactan.
+Terreno Controlado,Avanzado,Una criatura enemiga termina su turno dentro de tu alcance sin haberte atacado.

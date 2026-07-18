@@ -1,0 +1,16 @@
+﻿Nombre,Chispa,Tipo
+Lectura de Apertura,Un enemigo que puedas ver falla una tirada de salvación o una prueba de característica durante el combate,Básica
+Golpe Sostenido,Impactas con un ataque de arma y el objetivo tiene el mismo objetivo que tú desde el inicio de tu turno anterior (llevas al menos dos rondas atacando al mismo enemigo),Básica
+Posición Ventajosa,"Al inicio de tu turno, estás en terreno elevado, en cobertura o adyacente a un obstáculo que te separa de al menos un enemigo.",Básica
+Golpe Devastador,Reduces a 0 el vigor de un enemigo con un ataque de arma.,Avanzado
+Rompimiento de Guardia,Realizas tres o más ataques contra el mismo objetivo durante tu turno y al menos dos de ellos impactan.,Avanzado
+Terreno Controlado,Una criatura enemiga termina su turno dentro de tu alcance sin haberte atacado.,Avanzado
+Respuesta Inmediata,Un enemigo te impacta con un ataque de arma cuerpo a cuerpo y tú tienes al menos la mitad de tu vigor máximo.,Avanzado
+Análisis de Combate,Llevas al menos 3 rondas en combate activo y no has estado Incapacitado ni alejado más de 8 casillas de tu objetivo principal en ese tiempo.,Avanzado
+Economía de Movimiento,No te has movido en absoluto durante tu turno anterior.,Avanzado
+Acometida Táctica,Te mueves al menos 4 casillas en línea recta y terminas el movimiento adyacente a un enemigo que no te había atacado aún en esta ronda.,Avanzado
+Aguante de Veterano,Tu vigor cae por debajo de la mitad de tu máximo por primera vez en este combate.,Avanzado
+Presión de Hierro,Un enemigo adyacente a ti intenta realizar una acción que no sea atacarte directamente con un arma,Avanzado
+Cadena de Mando,Un aliado que pueda verte u oírte está a punto de realizar una tirada de ataque,Avanzado
+El Golpe que Termina Todo,No has realizado ningún ataque durante tu turno anterior y en tu turno actual dedicas tu acción entera a preparar este único golpe,Maestra
+Maestría Absoluta,"Al inicio de tu turno, llevas al menos 4 rondas en combate continuo sin haber estado Incapacitado.",Maestra
