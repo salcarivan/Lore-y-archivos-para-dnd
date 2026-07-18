@@ -1,0 +1,16 @@
+﻿Nombre,Cuándo,Requisitos,Tipo
+Rugido de Guerra,Entras en Furia o reduces a un enemigo a 0 PV mientras estás en Furia.,,Básico
+Golpe Brutal,Impactas con un ataque mientras estás en Furia.,,Básico
+Piel de Hierro,Recibes daño mientras estás en Furia.,,Básico
+Embestida Salvaje,Te mueves al menos 4 casillas en línea recta e impactas con un ataque.,,Avanzado
+Agarre Aplastante,Impactas con un ataque cuerpo a cuerpo y el objetivo es de tu tamaño o menor.,,Avanzado
+Trance de Combate,Al inicio de tu turno mientras estás en Furia y tienes al menos 1 enemigo adyacente.,,Avanzado
+Sacudida Atronadora,Derribas a un enemigo o lo empujas al menos 2 casillas.,,Avanzado
+Furia Encadenada," Reduces a 0 PV a un enemigo con un ataque cuerpo a cuerpo mientras estás en Furia.",,Avanzado
+Piel de la Bestia,"Recibes daño contundente, cortante o perforante mientras estás en Furia.",,Avanzado
+Golpe Sísmico,"Realizas un Ataque temerario contra una criatura Grande o mayor, o contra el suelo.",,Avanzado
+Provocación Sangrienta,Un enemigo que puedes ver ataca a un aliado tuyo que está a 3 casillas o menos de ti.,,Avanzado
+Berserker Implacable,Estás en Furia y comienzas tu turno con la mitad o menos de tus PV máximos (condición Ensangrentado).,,Avanzado
+Voluntad Inquebrantable,"Fallas una tirada de salvación de Inteligencia, Sabiduría o Carisma mientras estás en Furia.",,Avanzado
+Avatar de la Furia,Cuándo: Entras en Furia.,Nivel 11,Maestra
+Golpe del Fin del Mundo,Usas Ataque temerario y no te has movido este turno.,11,Maestra
