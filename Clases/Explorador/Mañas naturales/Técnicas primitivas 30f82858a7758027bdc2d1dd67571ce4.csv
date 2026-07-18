@@ -1,0 +1,38 @@
+﻿Nombre,Requisitos
+Acechador 1,Competencia en Sigilo
+Acechador 2,"Nivel 3, Acechador 1"
+Acechador 3,"Nivel 9, Acechador 1 y 2"
+Acechador 4,"Nivel 14, Acechador 1, 2 y 3"
+Adepto acuático,Competencia en Atletismo
+Adepto alpino,Competencia en Atletismo
+Adepto ártico,Competencia en Resistencia
+Adepto de caverna,Competencia en Percepción
+Adepto de la jungla,Competencia en Supervivencia
+Adepto en desierto,Competencia en Resistencia
+Adepto urbano,Competencia en Investigar
+Asesino 1,"Nivel 3, Competencia en Percepción"
+Asesino 2,"Nivel 6, Asesino 1"
+Asesino 3,"Nivel 14, Asesino 1 y 2"
+Caballero errante 1,Fuerza 13
+Caballero errante 2," Nivel 3, Caballero errante 1"
+Caer de manos 1,Nivel 6
+Caer de manos 2,"Nivel 9, Caer de manos 1"
+Caminante 1,Competencia en Resistencia
+Caminante 2,"Nivel 3, Caminante 1"
+Caminante 3,"Nivel 6, Caminante 1 y 2"
+Caminante 4,"Nivel 14, Caminante 1, 2 y 3"
+Enemigo favorito,
+Estudiante de lo salvaje,
+Herborista 1,Competencia en Medicina
+Herborista 2,"Nivel 3, Herborista 1"
+Herborista 3,"Nivel 6, Herborista 1 y 2"
+Jinete 1,Competencia en Domesticar
+Jinete 2,"Nivel 3, Jinete 1"
+Leñador,
+Naturalista 1,Competencia en Naturaleza
+Regeneración natural,Nivel 3
+Superviviente 1,Nivel 6
+Superviviente 2,"Nivel 9, Superviviente 1"
+Superviviente 3,"Nivel 14, Superviviente 1 y 2"
+Trampero 1,Competencia en Finura
+Trampero 2,"Nivel 6, Trampero 1"
