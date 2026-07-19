@@ -1,0 +1,19 @@
+﻿Nombre,CD,Descripción,Incubación,Rareza,Transmisión
+Cólera,10,"Un trago de agua mala y te quedarás acurrucado junto al inodoro durante una semana, o morirás de deshidratación.",1 día,Común,Tocar (excremento)
+Sarampión,10,Pequeñas manchas que pican y se extienden por todo el cuerpo.,2 días,Común,"Toque, Aire"
+Difteria,15,Una infección desagradable de la garganta que puede causar cicatrices permanentes si penetra la piel.,3 días,Rara,"Toque, Aire"
+Peste bubónica,25,"A menudo confundida al principio con gripe, la enfermedad se manifiesta en bubones hinchados que marcan el cuerpo y suponen una sentencia de muerte casi segura.",1 día,Rara,Toque
+Disentería,20,"Fácil de contraer y doloroso de soportar, un sorbo de agua sucia puede ser suficiente para arruinar toda tu semana.",1 día,Común,Toque (excremento)
+Influenza,10,Una tos inofensiva y una fiebre leve pueden convertirse rápidamente en algo mucho más grave si no se permanece en cama.,2 días,Común,"Toque, Aire"
+Viruela,15,Pequeñas manchas que rápidamente se convierten en ampollas grandes y dolorosas en todo el cuerpo y dejan cicatrices de viruela.,4 días,Rara,"Toque, Aire"
+Escama de piedra,30,"A medida que tu piel se vuelve gris y agrietada, tu mente se descompone hasta convertirse en la de un animal salvaje. Mátalos antes de que te maten.",4 semanas,Mítica,Toque
+Sífilis,20,La carne es débil. Baja la guardia una noche y puede que sigas pagando por ello años después.,4 semanas,Común,Tocar (dolorido)
+Tenia,15,Pequeños parásitos que se esconden en la carne podrida y los excrementos. Ten cuidado con lo que comes.,1 semana,Común,Toque (excrementos)
+Fiebre tifoidea,15,A veces es mejor pasar sed que beber agua sucia. No te arriesgues: hiérvela.,1 semana,Común,Toque (excremento)
+Tos ferina,15,"Ataques de tos violenta seguidos de una fuerte inhalación y, a veces, costillas rotas.",1 semana,Común,Aire
+Fiebre de ceniza,15,"Una fiebre ardiente que consume lentamente a su víctima, dejando tras de sí cenizas negras.",2 días,Común,Aire
+Sombra susurrante,20,Un parásito mental que convierte la mente de su huésped en un campo de batalla contra sí mismo.,1 semana,Rara,Toque
+Marea carmesí,10,"Una enfermedad que corrompe la sangre, convirtiéndola en un fluido viscoso y oscuro.",3 días,Rara,"Toque "
+Marchitamiento sombrío,20,"Drena lentamente la vitalidad de su víctima, dejando un cuerpo marchito y sin vida.",4 días,Rara,Toque
+El aliento del vacío,30,"Un antiguo mal de origen extraplanar. Aquellos que lo contraen comienzan a escuchar un eco lejano y, con el tiempo, su cuerpo se vuelve translúcido antes de desvanecerse en el vacío.",2 semanas,Mítica,Aire
+Pestilencia del olvido,30,"Una enfermedad que erosiona la memoria y la identidad. Al principio, las víctimas olvidan detalles menores, luego su propia vida. Eventualmente, se convierten en cascarones sin voluntad que vagan sin propósito.",1 mes,Mítica,Toque

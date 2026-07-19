@@ -1,0 +1,19 @@
+﻿Nombre,Rareza,Descripción,Transmisión,CD,Incubación
+Cólera,Común,"Un trago de agua mala y te quedarás acurrucado junto al inodoro durante una semana, o morirás de deshidratación.",Tocar (excremento),10,1 día
+Sarampión,Común,Pequeñas manchas que pican y se extienden por todo el cuerpo.,"Toque, Aire",10,2 días
+Difteria,Rara,Una infección desagradable de la garganta que puede causar cicatrices permanentes si penetra la piel.,"Toque, Aire",15,3 días
+Peste bubónica,Rara,"A menudo confundida al principio con gripe, la enfermedad se manifiesta en bubones hinchados que marcan el cuerpo y suponen una sentencia de muerte casi segura.",Toque,25,1 día
+Disentería,Común,"Fácil de contraer y doloroso de soportar, un sorbo de agua sucia puede ser suficiente para arruinar toda tu semana.",Toque (excremento),20,1 día
+Influenza,Común,Una tos inofensiva y una fiebre leve pueden convertirse rápidamente en algo mucho más grave si no se permanece en cama.,"Toque, Aire",10,2 días
+Viruela,Rara,Pequeñas manchas que rápidamente se convierten en ampollas grandes y dolorosas en todo el cuerpo y dejan cicatrices de viruela.,"Toque, Aire",15,4 días
+Sombra susurrante,Rara,Un parásito mental que convierte la mente de su huésped en un campo de batalla contra sí mismo.,Toque,20,1 semana
+Marea carmesí,Rara,"Una enfermedad que corrompe la sangre, convirtiéndola en un fluido viscoso y oscuro.","Toque ",10,3 días
+Marchitamiento sombrío,Rara,"Drena lentamente la vitalidad de su víctima, dejando un cuerpo marchito y sin vida.",Toque,20,4 días
+Escama de piedra,Mítica,"A medida que tu piel se vuelve gris y agrietada, tu mente se descompone hasta convertirse en la de un animal salvaje. Mátalos antes de que te maten.",Toque,30,4 semanas
+El aliento del vacío,Mítica,"Un antiguo mal de origen extraplanar. Aquellos que lo contraen comienzan a escuchar un eco lejano y, con el tiempo, su cuerpo se vuelve translúcido antes de desvanecerse en el vacío.",Aire,30,2 semanas
+Pestilencia del olvido,Mítica,"Una enfermedad que erosiona la memoria y la identidad. Al principio, las víctimas olvidan detalles menores, luego su propia vida. Eventualmente, se convierten en cascarones sin voluntad que vagan sin propósito.",Toque,30,1 mes
+Sífilis,Común,La carne es débil. Baja la guardia una noche y puede que sigas pagando por ello años después.,Tocar (dolorido),20,4 semanas
+Tenia,Común,Pequeños parásitos que se esconden en la carne podrida y los excrementos. Ten cuidado con lo que comes.,Toque (excrementos),15,1 semana
+Fiebre tifoidea,Común,A veces es mejor pasar sed que beber agua sucia. No te arriesgues: hiérvela.,Toque (excremento),15,1 semana
+Tos ferina,Común,"Ataques de tos violenta seguidos de una fuerte inhalación y, a veces, costillas rotas.",Aire,15,1 semana
+Fiebre de ceniza,Común,"Una fiebre ardiente que consume lentamente a su víctima, dejando tras de sí cenizas negras.",Aire,15,2 días

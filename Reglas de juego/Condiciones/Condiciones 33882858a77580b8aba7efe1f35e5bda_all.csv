@@ -1,0 +1,31 @@
+﻿Nombre,Relacionada con Condiciones,Tipo
+Agotamiento,,Progresivas
+Envenenado,,Progresivas
+Ensangrentado,,Progresivas
+Quemado,,Progresivas
+Asustado,Aterrorizado (Condiciones/Condiciones/Aterrorizado%2033882858a77580e5a62bf1b8e0196994.md),Escalonado
+Aterrorizado,Asustado (Condiciones/Condiciones/Asustado%2033882858a77580328e80df44a1dc5fce.md),Escalonado
+Ofuscado,Cegado (Condiciones/Condiciones/Cegado%2033882858a77580ab8f49f0b35a1def86.md),Escalonado
+Cegado,Ofuscado (Condiciones/Condiciones/Ofuscado%2033882858a77580a69652efccbb3ac7cb.md),Escalonado
+Estupefacto,,Escalonado
+Desquiciado,Enloquecido (Condiciones/Condiciones/Enloquecido%2033882858a775807b9537eb77d154b3f0.md),Escalonado
+Enloquecido,Desquiciado (Condiciones/Condiciones/Desquiciado%2033882858a7758048aeb0cb21055dbe33.md),Escalonado
+Incapacitado,,Escalonado
+Aturdido,Inconsciente (Condiciones/Condiciones/Inconsciente%2033882858a7758034a17ec4f097f61046.md),Escalonado
+Inconsciente,Aturdido (Condiciones/Condiciones/Aturdido%2033882858a775802cbcb2f397f184d79d.md),Escalonado
+Marchito,,Pasajera
+Corroído,,Pasajera
+Mojado,,Pasajera
+Enfriado,,Pasajera
+Agarrado,,Pasajera
+Electrificado,,Pasajera
+Encantado,,Pasajera
+Estable,,Pasajera
+Inmovilizado,,Pasajera
+Invisible,,Pasajera
+Paralizado,,Pasajera
+Cargado,,Pasajera
+Tumbado,,Pasajera
+Petrificado,,Persistente
+Ensordecido,,Pasajera
+Moribundo,,Persistente

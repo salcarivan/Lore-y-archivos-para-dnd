@@ -1,0 +1,3 @@
+# Intervalo de tiempo
+
+Una duración que proporciona un intervalo de tiempo especifica cuánto dura el hechizo en rondas, minutos, horas o similares. Por ejemplo, una entrada de Duración podría decir "1 minuto", lo que significa que el hechizo termina después de que haya pasado 1 minuto. Mientras un hechizo de intervalo de tiempo que lanzas está en curso, puedes descartarlo (sin acción requerida) si no tienes la condición de Incapacitado.
