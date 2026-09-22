@@ -1,0 +1,74 @@
+﻿Nombre,Categoría,Combate,Coste,Espacios
+Nudilleras,Simple,Cuerpo a cuerpo,1 po,1
+Cuchillo de carnicero,Simple,Cuerpo a cuerpo,1 po,1
+Garrote,Simple,Cuerpo a cuerpo,1 pp,1
+Daga,Simple,Cuerpo a cuerpo,2 po,1
+Garras de combate,Simple,Cuerpo a cuerpo,3 po,1
+Gran garrote,Simple,Cuerpo a cuerpo,2 pp,3
+Hacha de mano,Simple,Cuerpo a cuerpo,5 po,1
+Jabalina,Simple,Cuerpo a cuerpo,,
+Martillo ligero,Simple,Cuerpo a cuerpo,2 po,1
+Maza,Simple,Cuerpo a cuerpo,5 po,2
+Machete,Simple,Cuerpo a cuerpo,5 po,1
+Bastón,Simple,Cuerpo a cuerpo,2 pp,2
+Daga de puño,Simple,Cuerpo a cuerpo,2 po,
+Guadaña,Simple,Cuerpo a cuerpo,8 po,3
+Hoz,Simple,Cuerpo a cuerpo,1 po,1
+Lanza,Simple,Cuerpo a cuerpo,1 po,2
+Tridente,Simple,Cuerpo a cuerpo,5 po,2
+Cerbatana,Simple,A distancia,10 po,1
+Ballesta ligera,Simple,A distancia,25 po,2
+Dardo Arrojadizo,Simple,A distancia,5 pc,1
+Gancho de agarre,Simple,A distancia,2 po,2
+Arpón,Simple,A distancia,5 po,2
+Red,Simple,A distancia,1 po,2
+Arco corto,Simple,A distancia,25 po,1
+Honda,Simple,A distancia,1 pp,"0,2"
+Trabuco,Marcial,A distancia,60 po,3
+Mosquete,Marcial,A distancia,50 po,3
+Pistola,Marcial,A distancia,25 po,2
+Bola,Marcial,A distancia,1 po,1
+Bumerán,Marcial,A distancia,3 po,1
+Chakram,Marcial,A distancia,1 po,1
+Arco compuesto,Marcial,A distancia,120 po,2
+Ballesta de repetición,Marcial,A distancia,250 po,3
+Ballesta de mano,Marcial,A distancia,75 po,2
+Ballesta Pesada,Marcial,A distancia,50 po,3
+Arco largo,Marcial,A distancia,50 po,1
+Estrella arrojadiza,Marcial,A distancia,1 po,1
+Espada bastarda,Marcial,Cuerpo a cuerpo,40 po,2
+Bastón corto,Marcial,Cuerpo a cuerpo,5 po,1
+Hacha de guerra,Marcial,Cuerpo a cuerpo,10 po,2
+Bastón-cuchilla,Marcial,Cuerpo a cuerpo,50 po,3
+Abanico de filo,Marcial,Cuerpo a cuerpo,5 po,1
+Bastón-estoque,Marcial,Cuerpo a cuerpo,25 po,2
+Cadena,Marcial,Cuerpo a cuerpo,20 po,3
+Cadena con puas,Marcial,Cuerpo a cuerpo,25 po,3
+Daga de parada,Marcial,Cuerpo a cuerpo,20 po,1
+Mangual,Marcial,Cuerpo a cuerpo,10 po,1
+Guja,Marcial,Cuerpo a cuerpo,10 po,2
+Hacha grande,Marcial,Cuerpo a cuerpo,30 po,3
+Mandoble,Marcial,Cuerpo a cuerpo,50 po,2
+Alabarda,Marcial,Cuerpo a cuerpo,20 po,2
+Katana,Marcial,Cuerpo a cuerpo,40 po,2
+Khopesh,Marcial,Cuerpo a cuerpo,10 po,2
+Kpinga,Marcial,Cuerpo a cuerpo,25 po,2
+Kusari-gama,Marcial,Cuerpo a cuerpo,15 po,2
+Lanza de caballería,Marcial,Cuerpo a cuerpo,10 po,2
+Espada larga,Marcial,Cuerpo a cuerpo,15 po,2
+Macuahuitl,Marcial,Cuerpo a cuerpo,25 po,2
+Almádena,Marcial,Cuerpo a cuerpo,10 po,3
+Mazo meteórico,Marcial,Cuerpo a cuerpo,40 po,2
+Lucero del alba,Marcial,Cuerpo a cuerpo,15 po,2
+Nunchakus,Marcial,Cuerpo a cuerpo,10 po,1
+Garrote (alambre),Marcial,Cuerpo a cuerpo,3 po,1
+Pica,Marcial,Cuerpo a cuerpo,5 po,3
+Estoque,Marcial,Cuerpo a cuerpo,25 po,1
+Cimitarra,Marcial,Cuerpo a cuerpo,25 po,2
+Espada corta,Marcial,Cuerpo a cuerpo,10 po,1
+Urumi,Marcial,Cuerpo a cuerpo,15 po,1
+Pico de guerra,Marcial,Cuerpo a cuerpo,5 po,1
+Martillo de guerra,Marcial,Cuerpo a cuerpo,15 po,1
+Látigo,Marcial,Cuerpo a cuerpo,2 po,2
+Yo-yo,Marcial,Cuerpo a cuerpo,15 po,1
+Mandoble a dos manos,Marcial,Cuerpo a cuerpo,80 po,3

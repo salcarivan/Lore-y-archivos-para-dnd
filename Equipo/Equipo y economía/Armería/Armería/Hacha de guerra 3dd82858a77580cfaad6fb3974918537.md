@@ -1,0 +1,10 @@
+# Hacha de guerra
+
+Categoría: Marcial
+Combate: Cuerpo a cuerpo
+Daño: 1d8 cortante
+Propiedades: Versátil (../Propiedades/Vers%C3%A1til%203db82858a775806796dbdfd8ffd6265b.md)
+Munición: 1d10
+Técnicas: Cambio de Guardia (../T%C3%A9cnicas/Cambio%20de%20Guardia%203dd82858a77580e6a912cc8f1b6fc165.md)
+Coste: 10 po
+Espacios: 2

@@ -1,0 +1,7 @@
+# Listones Metálicos
+
+Categoria: Pesada
+CA: 17
+Propiedades: Pesada (../Propiedades%20de%20armas/Pesada%203e082858a775803f9df1e6eda9228b28.md), Reforzada (../Propiedades%20de%20armas/Reforzada%203df82858a7758089ab6affb447f31e0c.md), Ignífuga (../Propiedades%20de%20armas/Ign%C3%ADfuga%203df82858a77580b2acade540d77fc2aa.md), Conductora (../Propiedades%20de%20armas/Conductora%203e082858a7758038be9df4d5dcd0cad4.md), Llamativa (../Propiedades%20de%20armas/Llamativa%203e082858a775806dafe2e9c81610c18d.md)
+Coste: 200 po
+Espacios: 9

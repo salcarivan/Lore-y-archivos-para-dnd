@@ -1,0 +1,11 @@
+# Arco largo
+
+Categoría: Marcial
+Combate: A distancia
+Daño: 1d8 perforante
+Propiedades: Munición (../Propiedades/Munici%C3%B3n%203dc82858a77580f28ecdfeea396e8075.md), A dos manos (../Propiedades/A%20dos%20manos%203db82858a77580238bcfd876c5001153.md)
+Distancia: 30/120
+Munición: Flechas
+Técnicas: Tiro Estable (../T%C3%A9cnicas/Tiro%20Estable%203dc82858a77580e79c40d4898e3d80c6.md)
+Coste: 50 po
+Espacios: 1

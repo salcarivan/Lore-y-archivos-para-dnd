@@ -1,0 +1,9 @@
+# Kpinga
+
+Categoría: Marcial
+Combate: Cuerpo a cuerpo
+Daño: 1d6 cortante
+Propiedades: Brutal (../Propiedades/Brutal%203dd82858a7758052bc85d2736a047b2a.md)
+Técnicas: Finta (../T%C3%A9cnicas/Finta%203dd82858a77580edbe68f37c108f7220.md)
+Coste: 25 po
+Espacios: 2

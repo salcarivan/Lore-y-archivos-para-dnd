@@ -1,0 +1,9 @@
+# Garras de combate
+
+Categoría: Simple
+Combate: Cuerpo a cuerpo
+Daño: 1d4 cortante
+Propiedades: Precisa (../Propiedades/Precisa%203db82858a775801c9e52c076800d2956.md), Ligera (../Propiedades/Ligera%203db82858a775805b9ed3de51f3c9653d.md)
+Técnicas: Tajo Preciso (../T%C3%A9cnicas/Tajo%20Preciso%203db82858a77580bf995ce33933f01cd2.md)
+Coste: 3 po
+Espacios: 1
