@@ -499,3 +499,215 @@ Cuando esto ocurre, el maná no se comporta igual. Pierde matiz, pierde intensid
 
 Esto también da pie a un arquetipo interesante para PNJs o antagonistas: el **Gris Puro** — alguien que ha llegado a la convicción genuina de que ninguna causa merece fe plena, y que por tanto practica los seis Tintes a la vez con la misma frialdad de quien no cree en ninguno. No es hueco por accidente, sino por filosofía deliberada, lo cual lo hace, según algunos eruditos, el estado más peligroso y más raro de todos: un Gris que no es ausencia de convicción, sino una convicción propia sobre la ausencia.
 
+# **Las Mazmorras de Cendaria**
+
+> \[\!NOTE\] El "Amo de la Mazmorra" es, sí, literalmente un *Dungeon Master* — y lo mejor es que ni él mismo lo sabe. Solo que ahora, además, no puede salir de la campaña aunque quiera.
+
+## **1\. Resumen en una frase**
+
+Un Soberano de otro plano quedó a medio cruzar durante un eclipse; los Baluartes tejen un laberinto alrededor de la herida no solo para contenerlo, sino porque una Mazmorra domada es una mina de recursos que no existe en ningún otro sitio de Cendaria; dentro de ella, un Amo —casi siempre sin saberlo, y sin poder marcharse jamás— gobierna con poder casi absoluto mientras el Soberano le corroe la mente para acabar poseyéndolo del todo.
+
+---
+
+## **2\. Origen: la Cicatriz de Eclipse**
+
+* Cendaria está sellada del resto de la existencia por el Tapiz. La única grieta natural son los **eclipses**, que adelgazan la membrana.  
+* Por un pacto controlado de **Origen** solo cruzan esbirros menores. Durante un eclipse puede intentar cruzar algo mucho mayor: un **Soberano**.  
+* La mayoría de esos cruces fracasan a medias: el eclipse termina antes de que el Soberano termine de pasar, y el Tapiz se cierra sobre él. No lo expulsa. No lo deja pasar del todo.  
+* El resultado es una **Cicatriz de Eclipse**: una entidad entera, viva y consciente, incrustada en el tejido de la realidad — y que **sigue empujando**.
+
+> \[\!NOTE\] Por qué nadie deja una Cicatriz sin tejer Un Soberano atrapado no se resigna. Sigue intentando terminar de cruzar, una y otra vez, aunque nunca lo consiga del todo. **Cada intento genera un Nudo** alrededor de la Cicatriz — igual de real y peligroso que cualquier otro Nudo de Cendaria, solo que aquí ocurre de forma recurrente y previsible mientras la herida siga abierta. Domarla con el Tejido Laberíntico no elimina esos Nudos — los **regulariza**, convirtiendo un peligro errático en un recurso gestionable.
+
+| Fenómeno | Qué es |
+| ----- | ----- |
+| Jirón | Ausencia — el Tapiz ha sido arrancado |
+| Nudo | Exceso — demasiados Hilos Ley concentrados |
+| **Cicatriz de Eclipse** | **Presencia extranjera atrapada, que además genera Nudos cada vez que intenta terminar de cruzar** |
+
+---
+
+## **3\. Por qué un Baluarte quiere una Mazmorra (más allá de contener al Soberano)**
+
+* **Nudos regularizados** — Lágrimas de Ley de forma recurrente, no por pura casualidad geográfica.  
+* **Monstruos con material único** — colmillos, sangre, núcleos con propiedades que no existen en fauna "normal".  
+* **Materiales imposibles de conseguir de otro modo** — Cendaria está sellada, no hay viaje planar real. Un Soberano es el único fragmento de "otro sitio" al que cualquiera aquí puede tener acceso.
+
+Controlar una Mazmorra —no destruirla, no ignorarla, sino **gestionarla**— es un objetivo político de primer orden, y de ahí nacen las cinco facciones de la sección 8\.
+
+---
+
+## **4\. La Mazmorra: piel y tejido**
+
+* **El Tejido Laberíntico** — siempre artificial y mortal: dobla el espacio local y regulariza la generación de Nudos.  
+* **La piel** — el entorno físico. Puede ser cualquier cosa.
+
+### **Quién teje, con qué Esfera**
+
+| Quién teje | Esfera predominante | Resultado típico |
+| ----- | ----- | ----- |
+| Arquitecto / Gremio Alquimista | Cénit \+ Espejismo | Pasillos de piedra que se repiten, trampas de perspectiva |
+| Orden religiosa | Cénit \+ Restauración | Templo con salas que "se renuevan" |
+| Círculo druídico | Simbiosis (+ Destino) \+ Realidad | Bosque, cueva viva o jardín que se pliega sobre sí mismo |
+| Culto de Espejismo puro | Espejismo | Galería o sala de espejos donde el propio recuerdo falla |
+
+> \[\!NOTE\] Ejemplo extremo: un druida de nivel alto convoca un bosque boreal entero en pleno desierto y lo teje sobre una Cicatriz. Desde fuera es un oasis imposible. Desde dentro, es tan mazmorra —y tan rentable— como cualquier ruina de piedra numerada.
+
+### **La piel: ejemplos válidos**
+
+Templo en ruinas · red de cuevas naturales · bosque (natural o convocado) · montaña de senderos que "cambian de sitio" · edificio de Ceniz Baja cuyos pisos no coinciden con los planos.
+
+---
+
+## **5\. El Enraizamiento: gobernar sin poder marcharse**
+
+### **5.1 Detección y enraizamiento silencioso**
+
+El Soberano busca un deseo genuino y profundo (conexión con los Tintes: solo una convicción pura resuena a través del tejido). Quien entra por curiosidad o dinero puede recorrer la Mazmorra entera sin que pase nada. Quien entra cargando algo real se enraíza sin darse cuenta — sin voz, sin oferta.
+
+### **5.2 El trono: poder casi absoluto, jaula absoluta**
+
+* **El Amo no puede abandonar la Mazmorra.** Sus propios pies no le obedecen al cruzar cierto umbral, o el laberinto se reorganiza para devolverlo al centro.  
+* **Dentro de la Mazmorra, su poder es casi absoluto.** Los monstruos no lo atacan y a menudo lo obedecen de forma torpe; el tejido responde levemente a su voluntad.
+
+### **5.3 Degradación mental: el verdadero objetivo del Soberano**
+
+El contacto constante ataca específicamente la mente del Amo: memoria, identidad, sentido de quién es. No es un efecto colateral: es el método. Cuando la degradación es completa, el Soberano **posee al Amo** — con un cuerpo y un anclaje humano ya hechos, puede por fin caminar el mundo.
+
+### **5.4 Matar al Amo antes de la posesión**
+
+Si el Amo muere **antes** de que la posesión se complete, el Soberano se queda sin vasija — y puede elegir un nuevo Amo de inmediato, entre cualquiera presente que cargue, aunque sea en ese instante, un deseo genuino. Pero la transición forzada es inestable por naturaleza: a veces prende sin más, otras veces desencadena una **Rotura de Mazmorra**.
+
+### **5.5 Rotura de Mazmorra**
+
+1. **El Soberano queda libre de su atrapamiento entre mundos** — se manifiesta por sí mismo, más débil que si hubiera completado el cruce con normalidad, pero libre.  
+2. **El Tejido Laberíntico colapsa** — la geometría vuelve a ser normal.  
+3. **Todos los monstruos contenidos quedan sueltos** de golpe sobre la región.
+
+> \[\!NOTE\] Otras causas de una Rotura (no hace falta que muera un Amo)
+
+> * **Sobreexplotación**: cuotas de extracción demasiado agresivas (la tentación constante de la Compañía del Saqueo Autorizado) tensionan el tejido directamente, sin que ningún Amo esté implicado.  
+> * **Negligencia o mal tejido**: un Tejido Laberíntico barato, o simplemente uno viejo sin mantenimiento durante siglos, puede fallar por desgaste — el gancho de venta favorito del Gremio del Sello Vivo para justificar sus tarifas.  
+> * **Un eclipse cercano sin preparar**: si ocurre otro eclipse mientras la Mazmorra está activa, la membrana vuelve a adelgazarse — y sin refuerzo deliberado, puede ayudar al Soberano a *terminar de cruzar hacia dentro* en vez de expulsarlo hacia fuera (ver sección 9, donde ese mismo fenómeno se usa a propósito, pero controlado).  
+> * **Sabotaje deliberado**: rivales, facciones con motivos ideológicos (la Vela Muda considera que ninguna Mazmorra debería haberse tejido nunca) o un Amo consciente y desesperado por liberarse pueden dañar el tejido a propósito.
+
+### **5.6 Cuando el Soberano no elige Amo**
+
+No es un fallo del sistema — es, de hecho, el estado más habitual de cualquier Mazmorra recién tejida. La mayoría de la gente que entra no carga un deseo lo bastante puro, así que el Soberano simplemente no encuentra a quién enraizar, quizá durante generaciones.
+
+Una Mazmorra sin Amo **no es más segura por eso** — es más *impredecible*:
+
+* **El tejido y la emanación siguen funcionando con normalidad**: Nudos regularizados, monstruos, material planar — todo sigue generándose sin necesidad de un Amo. Explotarla sigue siendo posible y rentable.  
+* **Sin un Amo actuando de "válvula", la presión del Soberano no tiene por dónde salir.** Un Amo, aunque esté siendo consumido, absorbe parte de esa presión de forma continua y controlada. Sin él, el Soberano acumula ese impulso sin descargarlo, lo cual se traduce en un **Pulso Errático**: picos de actividad más frecuentes e impredecibles de lo normal — Nudos más grandes de lo esperado, oleadas de monstruos fuera de horario, tramos del tejido que fallan un momento y luego se recomponen solos.  
+* **Ningún "monarca" organiza el ecosistema.** Sin un Amo gobernando desde dentro, los monstruos son más ferales, menos coherentes entre ellos, y el laberinto en sí es más hostil de explorar — no hay nadie a quien el tejido "escuche".
+
+> \[\!NOTE\] Esto es justo lo que la Cofradía del Deseo Cumplido vende como servicio: no un mal necesario, sino literalmente estabilidad. Una Mazmorra con un Amo bien gestionado es, en la práctica, más segura de explotar a largo plazo que una sin nadie al mando — aunque también más cargada de consecuencias morales cuando alguien se para a pensarlo.
+
+---
+
+## **6\. El ecosistema: de dónde salen los monstruos (y el material que no existe en ningún otro sitio)**
+
+* **Atrae** fauna y gente perdida de los alrededores.  
+* **Muta** lo que atrae según su Esfera dominante — cada Mazmorra tiene un bioma temático coherente.  
+* **Se intensifica** cerca del núcleo — el "cuanto más profundo, más fuerte" es un gradiente medible.  
+* **Genera residuo planar** — esquirlas, fluidos y núcleos con propiedades ajenas a cualquier cosa nativa de Cendaria.
+
+---
+
+## **7\. Los Cinco Soberanos**
+
+| Tipo | Título | Esfera | Deseo típico | Qué corrompe primero |
+| ----- | ----- | ----- | ----- | ----- |
+| **Fiend** | Príncipe/Princesa del Infierno | Ruina | Venganza, dominio, destrucción del enemigo | Empatía — crueldad creciente, marcas necróticas |
+| **Celestial** | Alto Custodio | Destino | Propósito, sentirse "elegido" | Voluntad propia — zelotismo hueco, se tiñe de Gris |
+| **Elemental** | Primordial | Energía (varía por subtipo) | Poder físico, resistencia, transformación corporal | El cuerpo — carne sustituida por sustancia elemental |
+| **Fey** | Señor/Señora de las Hadas | Espejismo | Belleza, encanto, suerte irresistible | Libertad — cláusulas caprichosas que atan, no el cuerpo |
+| **Aberration** | El/La Antiguo/a | Mente | No desea nada humano — concede "la verdad" | El lenguaje compartido — alienación, incomunicabilidad |
+
+---
+
+## **8\. Las Cinco Facciones del Tejido**
+
+| Facción | Rol | Gimmick | Tipo | Objetivos | Influencia |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| **El Gremio del Sello Vivo** | Crear mazmorras | Equipos itinerantes con "estilo de tejido" reconocible, como firma de autor | Mercantil / Técnica | Monopolio del tejido de calidad; expandir franquicia | Alta (continental, técnica) |
+| **Los Augures del Parpadeo** | Detectar mazmorras | Predicen eclipses y venden la ubicación de Cicatrices nuevas al mejor postor | Mercantil / Académica | Monopolizar información sobre eclipses y Cicatrices | Media-alta (continental, información) |
+| **La Compañía del Saqueo Autorizado** | Explotar mazmorras | Cuadrillas asalariadas con cuotas de extracción | Mercantil / Militar | Maximizar extracción sostenible sin provocar Rotura | Alta (continental, económica) |
+| **La Orden de la Última Puerta** | Destruir mazmorras con seguridad | Usa Ruina donde Restauración no basta; muchos son exiliados sociales | Militar / Religiosa | Neutralizar mazmorras al borde del colapso | Media (dispersa, solo emergencias) |
+| **La Cofradía del Deseo Cumplido** | Promover Amos | Reclutadores que usan Mente para identificar deseos y "guiar" a candidatos | Religiosa / Criminal | Mantener el suministro de Amos estables | Baja pero creciente (clandestina) |
+
+### **Relaciones rápidas**
+
+* **Sello Vivo ↔ Augures del Parpadeo**: clientes habituales.  
+* **Saqueo Autorizado ↔ Sello Vivo**: dependencia mutua incómoda, comisión por explotación.  
+* **Última Puerta ↔ Augures del Parpadeo**: colaboración técnica obligada — necesitan predicciones exactas de eclipses para programar un cierre seguro (sección 9).  
+* **Última Puerta ↔ las otras cuatro**: su llegada suele significar que alguien se excedió.  
+* **Deseo Cumplido ↔ Sindicato de las Arenas / Gremio Alquimista**: compran listas de "candidatos" con la excusa de "estudios vocacionales".  
+* **Deseo Cumplido ↔ Telar de los Susurros**: tensión ideológica no reconocida en público.  
+* **Vela Muda ↔ Última Puerta**: simpatía filosófica incómoda — ambas creen que casi ninguna Mazmorra debería explotarse, pero discrepan en método y motivos.
+
+---
+
+## **9\. Cómo destruir una Mazmorra con seguridad (el método de la Última Puerta)**
+
+Matar al Soberano sin más no es una opción: ya está atrapado entre dos estados, y forzar su muerte de forma bruta arriesga liberar esa misma energía sin control — una Primera Exhalación en miniatura, localizada. La Última Puerta no destruye al Soberano: **termina, de forma controlada, el cruce que el eclipse original dejó a medias — pero hacia fuera, no hacia dentro.**
+
+1. **Extracción del Amo (si lo hay)**: antes que nada, un rito de desvinculación basado en Restauración, mucho más cuidadoso que un asesinato de campo — reduce drásticamente el riesgo de que la muerte del Amo dispare una Rotura por sí sola.  
+2. **Sellado del núcleo**: el equipo aísla la cámara del Soberano del resto del tejido, cortando su acceso al flujo de Nudos que lo alimenta.  
+3. **Corte del hilo, no de la entidad**: varios practicantes de Ruina, sincronizados, no atacan al Soberano en sí — corrompen específicamente el vínculo que lo ancla a Cendaria. Es la parte más peligrosa: un fallo de sincronización puede desencadenar justo la Rotura que se intenta evitar.  
+4. **Momento ideal — un eclipse posterior**: si es posible, el cierre se programa para coincidir con un nuevo eclipse (de ahí la dependencia de los Augures del Parpadeo). La membrana, ya adelgazada, hace mucho más fácil empujar al Soberano de vuelta hacia fuera en lugar de que termine de entrar.  
+5. **Colapso limpio del tejido**: sin ancla foránea, el Tejido Laberíntico se disuelve por sí solo, sin liberar nada — deja una zona inerte, parecida a un Jirón pequeño o simplemente unas ruinas mudas, en vez de una Rotura.
+
+> \[\!NOTE\] Cuanto más tiempo lleve activa la Mazmorra, más degradado esté un Amo, o mayor sea el Soberano, más practicantes y más riesgo hace falta — y es exactamente por eso que la Orden pierde miembros con regularidad y solo actúa en emergencias declaradas.
+
+---
+
+## **10\. Cómo crear una Mazmorra en Cendaria — guía paso a paso**
+
+1. **Elige el Soberano y su Esfera** (sección 7).  
+2. **Decide cuándo y cómo cruzó** — eclipse reciente o antiguo, Cicatriz pública o desaparecida en registros.  
+3. **Elige la piel** (sección 4\) y combínala con la región donde la ubiques.  
+4. **Decide quién tejió el laberinto** — ¿oficialmente el Sello Vivo? ¿un culto local sin saber lo que hacía?  
+5. **Define el gradiente de profundidad** (tabla más abajo) y qué recurso concreto la hace valiosa.  
+6. **Diseña el gancho de deseo** — qué tipo de convicción activaría el Enraizamiento aquí.  
+7. **Decide el estado del Amo** — sin Amo (con Pulso Errático activo o no) / Enraizándose / Reinando-degradándose / cerca de la posesión / poseído y desaparecido / vacante tras Rotura.  
+8. **Decide qué facción tiene interés activo** (sección 8\) y por qué.
+
+| Nivel | Cercanía al núcleo | Monstruos | Rasgo del tejido |
+| ----- | ----- | ----- | ----- |
+| Exterior | Lejos | Fauna mutada leve | El laberinto apenas engaña |
+| Intermedio | Media | Monstruos temáticos claros | Distancias empiezan a no cuadrar |
+| Profundo | Cerca | Monstruos fuertes, posible mini-jefe | Desorientación severa |
+| Cámara del Soberano | Núcleo | El Soberano y su guardia | El tejido es casi indistinguible de la realidad |
+
+---
+
+## **11\. Plantilla rápida**
+
+Nombre de la Mazmorra:  
+Tipo de Soberano: (Fiend / Celestial / Elemental / Fey / Aberration)  
+Esfera dominante:  
+Región de Cendaria:  
+Piel (entorno):  
+Quién tejió el laberinto y por qué:  
+Antigüedad de la Cicatriz:  
+Recurso clave que la hace valiosa:  
+Estado del Amo: (sin Amo / sin Amo \+ Pulso Errático / Enraizándose / Reinando-degradándose / Cerca de la posesión / Poseído y desaparecido / Vacante tras Rotura)  
+Facción con interés activo:  
+Deseo típico que atrae Amos:  
+Nivel Exterior — monstruos:  
+Nivel Intermedio — monstruos:  
+Nivel Profundo — monstruos / mini-jefe:  
+Cámara del Soberano — guardia final:  
+Gancho de trama:
+
+---
+
+## **12\. Ganchos de trama rápidos**
+
+* Un Baluarte rico paga a la Compañía del Saqueo Autorizado para explotar una Mazmorra más rápido de lo seguro — el tejido ya muestra señales de fatiga.  
+* Los PJ matan a un Amo corrupto "por piedad" y, sin saberlo, uno de ellos acaba de heredar el puesto.  
+* La Cofradía del Deseo Cumplido ha estado "orientando" vocacionalmente a un familiar de un PJ hacia una Mazmorra concreta.  
+* La Orden de la Última Puerta llega a cerrar una Mazmorra que el Baluarte local lleva años explotando sin permiso — y no quiere que se cierre.  
+* Una Mazmorra sin Amo lleva generaciones tranquila, hasta que un Pulso Errático especialmente violento obliga a evacuar la región circundante.  
+* Un eclipse inminente pone en marcha una carrera contrarreloj: la Última Puerta quiere usarlo para un cierre seguro, mientras un culto rival planea sabotear el tejido durante el mismo eclipse para provocar una Rotura a propósito.
+
