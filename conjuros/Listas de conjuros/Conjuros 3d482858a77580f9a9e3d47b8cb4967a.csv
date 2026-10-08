@@ -1,0 +1,442 @@
+﻿Nombre,Círculo,Esferas,Tiempo de lanzamiento,Componentes,Concentración,Ritual
+Llama Viva,Truco,Energía,1 acción,"S, V",No,No
+Eco Vociferante,Truco,Energía,1 acción,"S, V",No,No
+Luz Radiante,Truco,"Energía, Espejismo",1 acción,"M, V",No,No
+Toque de Rayo,Truco,Energía,1 acción,"S, V",No,No
+Mano de Tierra,Truco,Cénit,1 acción,"S, V",No,No
+Corriente Viva,Truco,Catálisis,1 acción,"S, V",No,No
+Aliento del Viento,Truco,Cinético,1 acción,"S, V",No,No
+Detectar magia,Truco,Destino,1 acción,"S, V",Yes,No
+Mensaje Susurrado,Truco,Mente,1 acción,"M, S, V",No,No
+Filo encantado,Truco,Destino,1 acción,"S, V",No,No
+Mano de Mago,Truco,Cinético,1 acción,"S, V",No,No
+Prestidigitación,Truco,"Catálisis, Espejismo",1 acción,"S, V",No,No
+Ilusión Menor,Truco,Espejismo,1 acción,"M, S",No,No
+Garrote Salvaje,Truco,"Cénit, Simbiosis",1 acción adicional,"M, S, V",No,No
+Zarza Atrapadora,Truco,Simbiosis,1 acción,"M, S, V",Yes,No
+Susurro de Encanto,Truco,Mente,1 acción,V,No,No
+Burla Arcana,Truco,Mente,1 acción,V,No,No
+Remiendo Menor,Truco,"Cinético, Restauración",1 minuto,"M, S, V",No,No
+Toque de la Tumba,Truco,Ruina,1 acción,"S, V",No,No
+Luces Danzantes,Truco,"Energía, Espejismo",1 acción,"M, S, V",Yes,No
+Hebra de Pensamiento,Truco,Mente,1 acción,S,No,No
+Guía Sutil,Truco,Destino,1 acción,"S, V",Yes,No
+Astilla Mental,Truco,Mente,1 acción,V,No,No
+Colmillo Corrosivo,Truco,"Catálisis, Simbiosis",1 acción,S,No,No
+Aliento Estable,Truco,Restauración,1 acción,S,No,No
+Toque del Caos,Truco,Simbiosis,1 acción,"S, V",No,No
+Impulso Fugaz,Truco,"Cinético, Energía, Restauración",1 acción adicional,"S, V",No,No
+Chispa Radiante,Truco,"Destino, Espejismo",1 acción,"S, V",No,No
+Objeto fantasma,Truco,"Cénit, Origen",1 acción,"S, V",No,No
+Estallido Ácido,Truco,Catálisis,1 acción,"S, V",No,No
+Titiritero de Sangre,Truco,"Catálisis, Ruina",1 acción,S,No,No
+Aguja Venenosa,Truco,"Origen, Ruina",1 acción,"S, V",No,No
+Aliado Artrópodo,Truco,"Origen, Simbiosis",1 acción,"M, S, V",No,No
+Desplazamiento Azaroso,Truco,Realidad,1 acción,"S, V",No,No
+Eco de Conjuro,Truco,Realidad,1 reacción,S,No,No
+Niebla Evasiva,Truco,"Espejismo, Realidad",1 acción adicional,S,No,No
+Represalia Elemental,1º círculo,"Catálisis, Cinético, Destino, Energía, Mente, Ruina",1 reacción,"S, V",No,No
+Absorción Elemental,1º círculo,"Catálisis, Cinético, Destino, Energía, Mente, Ruina",1 reacción,S,No,No
+Alarma,1º círculo,"Mente, Restauración",1 minuto,"M, S, V",No,Yes
+Vínculo Bestial,1º círculo,"Mente, Simbiosis",1 acción adicional,"M, S, V",Yes,No
+Tentáculos de Ébano,1º círculo,"Origen, Ruina",1 acción,"M, S, V",Yes,No
+Orden,1º círculo,Mente,1 acción,V,No,No
+Duelo Forzado,1º círculo,"Destino, Mente",1 acción adicional,V,Yes,No
+Creación o Destrucción de Agua,1º círculo,Catálisis,1 acción,"M, S, V",No,No
+Familiar Espiritual,1º círculo,Origen,1 hora,"M, S, V",No,Yes
+Cuerda Viviente,1º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Buenas Bayas,1º círculo,"Restauración, Simbiosis",1 acción,"M, S, V",No,No
+Baluarte de Fuerza,1º círculo,"Cinético, Restauración",1 acción,"S, V",Yes,No
+Oleada Elemental,1º círculo,"Catálisis, Cinético",1 acción,"S, V",No,No
+Grasa,1º círculo,Catálisis,1 acción,"M, S, V",No,No
+Sirviente Invisible,1º círculo,"Cinético, Espejismo",1 acción,"M, S, V",No,Yes
+Proyectil Mágico,1º círculo,Cinético,1 acción,"S, V",No,No
+Marca Protectora,1º círculo,Restauración,1 acción,"S, V",Yes,No
+Armas Espectrales,1º círculo,"Espejismo, Origen",1 acción,"S, V",No,No
+Rayo Tóxico,1º círculo,Simbiosis,1 acción,"S, V",No,No
+Sentido Ponzoñoso,1º círculo,"Destino, Simbiosis",1 acción,"S, V",Yes,Yes
+Comprensión de Lenguas,1º círculo,Mente,1 minuto,V,No,Yes
+Prisión de Tierra y Hielo,1º círculo,"Catálisis, Cénit",1 acción,"S, V",Yes,No
+Manto de Niebla,1º círculo,Espejismo,1 acción,"S, V",Yes,No
+Intercambio Mental,1º círculo,"Espejismo, Mente",1 acción,"M, S, V",No,Yes
+Fortuna Dividida,1º círculo,Destino,1 acción,"M, S, V",Yes,No
+Maldición Persistente,1º círculo,Ruina,1 acción adicional,"M, S, V",Yes,No
+Velo Protector,1º círculo,Restauración,1 acción,"M, S, V",Yes,No
+Armadura Arcana,1º círculo,Cénit,1 acción,"M, S, V",No,No
+Manos Ígneas,1º círculo,Energía,1 acción,"S, V",No,No
+Rayo Rebotante,1º círculo,Energía,1 acción,"M, S, V",No,No
+Rostro Cambiante,1º círculo,Espejismo,1 acción,"S, V",Yes,No
+Escritura Ilusoria,1º círculo,Espejismo,1 minuto,"M, S",No,Yes
+Toque de Ruina,1º círculo,Ruina,1 reacción,"S, V",No,No
+Salvaguarda contra lo Sobrenatural,1º círculo,"Mente, Restauración",1 acción,"M, S, V",Yes,No
+Coraje Inquebrantable,1º círculo,"Mente, Restauración",1 acción,"S, V",Yes,No
+Cadenas de Luz,1º círculo,Origen,1 acción,"M, S, V",Yes,No
+Vínculo con el Objeto,1º círculo,"Origen, Realidad",1 minuto,"M, S, V",No,Yes
+Caída Reorientada,1º círculo,Cinético,1 acción,"S, V",No,No
+Salto del Viajero,1º círculo,Realidad,1 acción adicional,"M, S, V",No,No
+Identificar,1º círculo,Destino,1 minuto,"M, S, V",No,Yes
+Abrir / Cerrar,2º círculo,Cinético,1 acción,"M, S, V",No,No
+Abrojos Mágicos,2º círculo,"Cinético, Cénit",1 acción,"M, S, V",Yes,No
+Aliento Cromático,2º círculo,"Catálisis, Cinético, Cénit, Destino, Energía, Espejismo, Mente, Origen, Realidad, Restauración, Ruina, Simbiosis",1 acción,"M, S, V",No,No
+Augurio,2º círculo,Destino,1 minuto,"M, S, V",No,No
+Calabazas Espectrales,2º círculo,"Mente, Simbiosis",1 acción,"M, S, V",No,No
+Campo Vengativo,2º círculo,Destino,1 acción,"M, S, V",Yes,No
+Centinela de Munición,2º círculo,Cinético,1 acción,"M, S, V",No,No
+Corcel Espiritual,2º círculo,Origen,10 minutos,"S, V",No,No
+Correo Silvestre,2º círculo,"Mente, Simbiosis",1 acción,"M, S, V",No,Yes
+Cuerpo de Resorte,2º círculo,"Cénit, Simbiosis",1 acción,"S, V",Yes,No
+Danza de Acero,2º círculo,Realidad,1 acción,"M, S",No,No
+Detectar Pensamientos,2º círculo,Mente,1 acción,"S, V",Yes,No
+Endecha del Filo,2º círculo,Ruina,1 acción adicional,V,Yes,No
+Escritura Celestial,2º círculo,Catálisis,1 acción,"S, V",No,Yes
+Estallido Ígneo,2º círculo,Energía,1 acción,S,No,No
+Estruendo Fulminante,2º círculo,Energía,1 acción,"M, S, V",No,No
+Favor de la Fortuna,2º círculo,Destino,1 acción,"M, S, V",Yes,No
+Fisura Terrestre,2º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Fragmentación Corporal,2º círculo,"Realidad, Simbiosis",1 acción,"S, V",Yes,No
+Gotas de Tinta Animada,2º círculo,"Catálisis, Espejismo",1 acción,"M, S, V",No,No
+Grilletes de Escarcha,2º círculo,Catálisis,1 acción,"S, V",No,No
+Grilletes de Voluntad,2º círculo,Mente,1 acción,"M, S, V",Yes,No
+Hedor Pútrido,2º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Hoja Cromática,2º círculo,"Catálisis, Cinético, Cénit, Destino, Energía, Espejismo, Mente, Origen, Realidad, Restauración, Ruina, Simbiosis",1 acción adicional,S,Yes,No
+Llave Arcana,2º círculo,"Cinético, Realidad",1 acción,"M, S, V",No,No
+Localizar Bestia o Planta,2º círculo,"Destino, Simbiosis",1 minuto,"M, S, V",No,Yes
+Manto de Silencio,2º círculo,Espejismo,1 acción,"S, V",Yes,No
+Manto Furtivo,2º círculo,Espejismo,1 acción,"M, S, V",Yes,No
+Marchitar,2º círculo,Ruina,1 acción,"S, V",No,No
+Objeto Animado,2º círculo,"Cénit, Destino",1 acción,"M, S, V",No,No
+Oleaje Elemental,2º círculo,Catálisis,1 acción,S,No,No
+Piel Pétrea,2º círculo,Cénit,1 acción,"M, S",No,No
+Planta Despierta,2º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Podredumbre Viviente,2º círculo,Ruina,1 acción,"M, S, V",Yes,No
+Pozo Gravitacional,2º círculo,Cénit,1 acción,"S, V",No,No
+Prisa,2º círculo,"Cinético, Realidad",1 acción,"M, S, V",Yes,No
+Puerta Efímera,2º círculo,Realidad,1 acción,"M, S, V",Yes,No
+Ráfaga Elemental,2º círculo,Cinético,1 acción,S,No,No
+Realidad Fracturada,2º círculo,"Mente, Realidad",1 acción,"S, V",No,No
+Refugio de Cuerda,2º círculo,Realidad,1 acción,"M, S, V",No,No
+Represalia Necrótica,2º círculo,Ruina,1 reacción,S,No,No
+Resplandor Consagrado,2º círculo,"Destino, Espejismo",1 acción,V,Yes,No
+Restablecer,2º círculo,Restauración,1 acción,"S, V",No,No
+Sentido Sísmico,2º círculo,"Cinético, Cénit",1 acción,"S, V",Yes,No
+Sudario Protector,2º círculo,Restauración,1 acción,"M, S, V",No,Yes
+Telaraña,2º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Vigilia de Restauración,2º círculo,Restauración,10 minutos,"M, S, V",No,Yes
+Vínculo Sanador,2º círculo,Restauración,1 acción,"M, S, V",No,No
+Vínculo Tormentoso,2º círculo,Energía,1 acción,"S, V",Yes,No
+Bola de fuego,3º círculo,Energía,1 acción,"M, S, V",No,No
+Círculo de Espíritus Guardianes,3º círculo,Origen,1 acción,"M, S, V",Yes,No
+Danza Burlesca,3º círculo,Mente,1 acción,V,Yes,No
+Disrupción Arcana,3º círculo,Cinético,1 reacción,S,No,No
+Domo Arcano,3º círculo,"Cinético, Cénit",1 hora,"M, S, V",No,Yes
+Égida Elemental,3º círculo,"Catálisis, Cinético, Cénit, Destino, Energía, Mente, Ruina, Simbiosis",1 acción,"S, V",Yes,No
+Emanación Vital,3º círculo,Restauración,1 acción,"S, V",Yes,No
+Glifo de Custodia,3º círculo,Cinético,1 hora,"M, S, V",No,Yes
+Jauría Espectral,3º círculo,"Origen, Simbiosis",1 acción,"S, V",Yes,No
+Manantial de Abundancia,3º círculo,"Origen, Simbiosis",1 acción,"S, V",No,Yes
+Vacío Sideral,3º círculo,"Catálisis, Origen",1 acción,"M, S, V",Yes,No
+Vínculo de Hermandad,3º círculo,"Destino, Mente",1 acción,"S, V",Yes,No
+Mirada Carmesí,3º círculo,Espejismo,1 acción,"S, V",Yes,No
+Sesión de Ánimas,3º círculo,"Destino, Origen",10 minutos,"S, V",Yes,Yes
+Tapiz Hipnótico,3º círculo,"Espejismo, Mente",1 acción,"M, S, V",Yes,No
+Muro de Vendaval,3º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Muro de Arena,3º círculo,Cénit,1 acción,"M, S, V",Yes,No
+Extremidad de Piedra,3º círculo,"Cénit, Ruina",1 acción,"S, V",Yes,No
+Pisada Flexible,3º círculo,"Cinético, Cénit",1 acción,S,Yes,No
+Siervo No Muerto,3º círculo,Ruina,1 minuto,"M, S, V",No,Yes
+Convocar Elemental,3º círculo,Origen,1 acción,"M, S, V",Yes,No
+Convocar Feérico,3º círculo,Origen,1 acción,"M, S, V",Yes,No
+Convocar Infernal,3º círculo,Origen,1 acción,"M, S, V",Yes,No
+Hablar con los Muertos,3º círculo,"Destino, Ruina",1 acción,"M, S, V",No,Yes
+Sombra Insurrecta,3º círculo,"Espejismo, Origen",1 acción,"S, V",Yes,No
+Muñeca de Vínculo,3º círculo,"Mente, Origen",1 acción,"M, S, V",Yes,Yes
+Metamorfosis Corporal,3º círculo,Simbiosis,1 acción,"S, V",Yes,No
+Avivar Emociones,3º círculo,Mente,1 acción adicional,"S, V",Yes,No
+Arma de Espejismos,3º círculo,Espejismo,1 acción,"S, V",Yes,No
+Espíritus Rastreadores,3º círculo,"Destino, Origen",1 minuto,"M, S, V",No,Yes
+Parpadeo,3º círculo,Realidad,1 acción,"S, V",No,No
+Llamar al Rayo,3º círculo,Energía,1 acción,"S, V",Yes,No
+Clarividencia,3º círculo,"Destino, Realidad",10 minutos,"M, S, V",Yes,Yes
+Jauría Espectral,3º círculo,"Origen, Simbiosis",1 acción,"S, V",Yes,No
+Andanada Espectral,3º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Cohorte Mecánica,3º círculo,Origen,1 acción,"S, V",Yes,No
+Manto del Cruzado,3º círculo,Destino,1 acción,V,Yes,No
+Luz del Día,3º círculo,Espejismo,1 acción,"S, V",No,No
+Disrupción Arcana,3º círculo,Cinético,1 acción adicional,"S, V",No,No
+Miedo,3º círculo,Mente,1 acción,"M, S, V",Yes,No
+Aumento Gravitacional,1º círculo,"Cénit, Realidad",1 acción,"S, V",No,No
+Puños de Tormenta,1º círculo,Energía,1 acción,S,No,No
+Manantial de Fuego,1º círculo,Energía,1 acción,"S, V",Yes,No
+Andanada de Piedra,1º círculo,Cénit,1 acción,"M, S, V",No,No
+Látigo de Agua,1º círculo,Catálisis,1 acción,"S, V",No,No
+Proyectil Espectral,1º círculo,Cinético,1 acción,"M, S, V",No,No
+Decadencia Putrefacta,1º círculo,Ruina,1 acción,"S, V",Yes,No
+Flecha del Destino,1º círculo,Destino,1 acción,"M, S, V",No,No
+Zarcillo Punzante,1º círculo,Simbiosis,1 reacción,"S, V",No,No
+Zarza Cautiva,1º círculo,"Cénit, Simbiosis",1 acción,"S, V",Yes,No
+Fosa Repentina,1º círculo,Cénit,1 acción,"M, S, V",No,No
+Explosión de tinta,1º círculo,"Catálisis, Espejismo",1 acción,"M, S, V",No,No
+Bolsillos Dimensionales,3º círculo,Realidad,1 acción,"S, V",Yes,No
+Sentencia del Verdugo,3º círculo,Ruina,1 reacción,V,No,No
+Cosecha Macabra,3º círculo,"Ruina, Simbiosis",1 acción,"M, S, V",No,No
+Cosecha Prodigiosa,3º círculo,"Restauración, Simbiosis",1 acción,"M, S, V",No,No
+Forma de Cristal,3º círculo,"Catálisis, Cénit",1 acción,"M, S, V",Yes,No
+Claro Vacío,3º círculo,"Espejismo, Realidad",10 minutos,"M, S, V",No,Yes
+Lazo de Vida Compartida,3º círculo,Restauración,1 reacción,"S, V",No,No
+"Círculo de Purificación ",3º círculo,Restauración,10 minutos,"M, S, V",No,Yes
+Chispa de Adrenalina,3º círculo,"Energía, Restauración",1 acción,"S, V",No,No
+Restitución Total,3º círculo,"Destino, Restauración",1 hora,"M, S, V",No,Yes
+Llamada del Guardián,3º círculo,Restauración,1 acción adicional,V,Yes,No
+Hilos de Sutura,3º círculo,Restauración,1 acción,"M, S, V",Yes,No
+Cortina de Ascuas,3º círculo,Energía,1 acción,"M, S, V",Yes,No
+Jaula de Resonancia,3º círculo,Energía,1 minuto,"M, S, V",Yes,Yes
+Tormenta del Capricho,3º círculo,"Destino, Energía",1 acción,"M, S, V",No,No
+Brasas Rastreras,3º círculo,"Energía, Ruina",1 acción,"M, S, V",Yes,No
+Zancada de Cascada,3º círculo,Catálisis,1 acción adicional,"S, V",No,No
+Escudo de Escarcha Refleja,3º círculo,Catálisis,1 reacción,"S, V",No,No
+Alquimia Efímera,3º círculo,Catálisis,10 minutos,"M, S, V",No,Yes
+"Marea Corrosiva ",3º círculo,Catálisis,1 acción,"M, S, V",No,No
+Burbujas Prodigiosas,3º círculo,Catálisis,1 acción,"M, S, V",Yes,No
+Armadura Invocada,2º círculo,Origen,1 acción adicional,"M, S, V",No,No
+Vínculo con el Vacío,2º círculo,Origen,10 minutos,"M, S, V",No,Yes
+"Escudo ",2º círculo,Origen,1 reacción,"M, S, V",No,No
+Ojo Vigía,4º círculo,"Destino, Espejismo",1 acción,"M, S, V",Yes,No
+Forma de Bestia,4º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Lanzas de Viento Cortante,4º círculo,Cinético,1 acción,"S, V",No,No
+Alarido Resonante,4º círculo,Energía,1 acción,"S, V",Yes,No
+Exilio al Limbo,4º círculo,Realidad,1 acción,"M, S, V",Yes,No
+Convocar Aberración,4º círculo,Origen,1 acción,"M, S, V",Yes,No
+Nube de medusas,4º círculo,"Origen, Simbiosis",1 acción,"M, S, V",Yes,No
+Muro de Hielo,4º círculo,"Catálisis, Cénit",1 acción,"M, S, V",Yes,No
+Muro de Espinas,4º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Comunión con la Flora,4º círculo,"Mente, Simbiosis",1 acción,"M, S, V",No,Yes
+Ancla Dimensional,4º círculo,Realidad,1 reacción,"M, S, V",No,No
+Confusión,4º círculo,Mente,1 acción,"M, S, V",Yes,No
+Halo de Furia Elemental,4º círculo,"Energía, Origen",1 acción,"S, V",Yes,No
+Guardianes Silvestres,4º círculo,"Cinético, Simbiosis",1 acción,"S, V",Yes,No
+Dominio de las Aguas,4º círculo,Catálisis,1 acción,"M, S, V",Yes,No
+Sello Contra la Muerte,4º círculo,Restauración,1 acción,"S, V",No,No
+Manufactura Instantánea,4º círculo,Cénit,1 acción,"S, V",No,No
+Vitalidad Forzada,4º círculo,Restauración,1 acción,"S, V",No,No
+Hilera de Filos Danzantes,4º círculo,"Cinético, Energía",1 acción,"S, V",Yes,No
+Balada de la Jarana,4º círculo,Mente,1 minuto,"M, S, V",Yes,No
+Coraza Espectral,4º círculo,"Restauración, Ruina",1 acción,"M, S, V",No,No
+Carroza de Medianoche,4º círculo,"Espejismo, Simbiosis",1 minuto,"M, S, V",No,Yes
+Maldición de Senectud,4º círculo,"Realidad, Ruina",1 acción,"M, S, V",No,No
+Marca de Sacrificio,4º círculo,"Origen, Realidad",1 acción,"M, S, V",No,No
+Criado de Medianoche,4º círculo,Simbiosis,1 acción,"M, S, V",No,No
+Vestido de Gala Encantado,4º círculo,"Cinético, Espejismo",1 acción,"M, S, V",No,No
+Glamour Feérico,4º círculo,"Espejismo, Simbiosis",1 minuto,"M, S, V",No,Yes
+Ráfaga de Papel Cortante,4º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Retrospección,4º círculo,"Destino, Realidad",1 minuto,"M, S, V",Yes,Yes
+Desgarro Cronoespacial,4º círculo,Realidad,1 acción,"M, S, V",No,No
+Nimbo Radiante,4º círculo,"Destino, Espejismo",1 acción,"S, V",Yes,No
+Libertad de Movimiento,4º círculo,"Cinético, Restauración",1 acción adicional,"M, S, V",No,No
+Insecto Gifgante,4º círculo,"Origen, Simbiosis",1 acción,"S, V",Yes,No
+Terreno Alucinatorio,4º círculo,Espejismo,10 minutos,"M, S, V",No,Yes
+Can de Vigilia,4º círculo,"Cinético, Origen",1 acción,"M, S, V",No,No
+Trueque Espacial,4º círculo,Realidad,1 acción,"S, V",No,No
+Abandono Simulado,4º círculo,Espejismo,1 minuto,"M, S, V",No,Yes
+Cerco Inviolable,4º círculo,"Realidad, Restauración",10 minutos,"M, S, V",No,Yes
+Esfera Inquebrantable,4º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Verdugo Onírico,4º círculo,"Espejismo, Mente",1 acción,"S, V",Yes,No
+Manto de Penumbra Viva,4º círculo,"Espejismo, Ruina",1 acción adicional,"S, V",Yes,No
+Runa de Discernimiento,4º círculo,"Cénit, Mente",1 acción,"M, S, V",No,Yes
+Runa Incendiaria,4º círculo,"Cénit, Energía",1 acción,"M, S, V",No,No
+Constelación Sanadora,4º círculo,Restauración,1 acción,"S, V",No,No
+Legión de Almas en Pena,4º círculo,"Espejismo, Ruina",1 acción,"M, S, V",Yes,No
+Balanza del Azar,4º círculo,Destino,1 acción,"M, S, V",No,No
+Sello de Cera Inquebrantable,4º círculo,"Catálisis, Cénit",1 acción,"M, S, V",Yes,No
+Zarpa de Resina Adherente,4º círculo,"Catálisis, Cinético",1 acción,"M, S, V",Yes,No
+Invocar Celestial,5º círculo,Origen,1 acción,"S, V",Yes,No
+Invocar Esencia Dracónica,5º círculo,Origen,1 acción,"M, S, V",Yes,No
+Coraza de Vida,5º círculo,"Cinético, Restauración",1 acción,"S, V",Yes,No
+Despertar la Conciencia,5º círculo,"Destino, Simbiosis",8 horas,"M, S, V",No,No
+Mano Arcana Colosal,5º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Aura de Resguardo Arcano,5º círculo,"Cinético, Restauración",1 acción,V,Yes,No
+Lluvia Ácida,5º círculo,Catálisis,1 acción,"M, S, V",Yes,No
+Tormenta de Éter,5º círculo,Cinético,1 acción,"S, V",Yes,No
+Nube Mortal,5º círculo,"Catálisis, Simbiosis",1 acción,"S, V",Yes,No
+Comunión,5º círculo,"Destino, Origen",1 minuto,"M, S, V",No,Yes
+Comunión con la Naturaleza,5º círculo,"Destino, Simbiosis",1 minuto,"S, V",No,No
+"Invocar Espíritu de Cieno ",5º círculo,"Origen, Simbiosis",1 acción,"M, S, V",Yes,No
+Andanada de Armas Espectrales,5º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Contagio Nefasto,5º círculo,"Ruina, Simbiosis",1 acción,"S, V",No,No
+Caída del Yunque,5º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Maldición de Impotencia,5º círculo,"Mente, Ruina",1 acción,"S, V",Yes,No
+Dominio de los Vientos,5º círculo,Cinético,1 acción,"S, V",Yes,No
+Forja de Sombras,5º círculo,"Cénit, Espejismo",1 acción,"M, S, V",No,No
+Emisario Onírico,5º círculo,"Destino, Mente",1 minuto,"M, S, V",No,No
+Grieta Sepulcral,5º círculo,"Cinético, Cénit",1 acción,"M, S, V",No,No
+Sentencia de Óbito,5º círculo,Ruina,1 acción,"M, S, V",Yes,No
+Munición Hechizada,5º círculo,Cinético,1 acción,"M, S, V",No,No
+Proyección Exstasis,5º círculo,"Espejismo, Realidad",1 acción,"M, S, V",Yes,No
+Columna Divina,5º círculo,"Destino, Energía",1 acción,"M, S, V",No,No
+Filo del Viento Fugaz,5º círculo,"Cinético, Realidad",1 acción adicional,"M, S",No,No
+Desgarro del Alma,5º círculo,"Mente, Ruina",1 acción,"S, V",No,No
+Hoja Decapitadora,5º círculo,"Cinético, Ruina",1 acción,"S, V",No,No
+Barrera de Fuerza,5º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Mandato Vinculante,5º círculo,Mente,1 minuto,V,No,No
+Tajo Hidráulico,5º círculo,Catálisis,1 acción,"M, S, V",No,No
+Polo Magnético,5º círculo,Cénit,1 acción,"M, S, V",Yes,No
+Paso Especular,5º círculo,"Espejismo, Realidad",1 acción,"M, S, V",Yes,No
+Instante Robado,5º círculo,Realidad,1 acción,"S, V",No,No
+Tránsito al Mañana,5º círculo,Realidad,1 acción,"S, V",No,No
+Combustión Voraz,5º círculo,Energía,1 acción,V,Yes,No
+Plaga Voraz,5º círculo,"Origen, Simbiosis",1 acción adicional,"M, S, V",Yes,No
+Saber de Leyenda,5º círculo,Destino,10 minutos,"M, S, V",No,Yes
+Salto al Mañana,5º círculo,Realidad,1 acción,"S, V",No,No
+Muro de Marchitez Verde,5º círculo,"Energía, Ruina",1 acción,"M, S, V",Yes,No
+Senda Subterránea,5º círculo,Cénit,1 acción,"M, S, V",No,No
+Castigo de Tormenta Ígnea,5º círculo,Energía,1 acción adicional,V,Yes,No
+Renacer Constante,5º círculo,Restauración,1 acción,"S, V",Yes,No
+Modificar Memoria,5º círculo,Mente,1 acción,"S, V",No,No
+Aliento de Retorno,5º círculo,Restauración,1 hora,"M, S, V",No,No
+Eslabones Invocados,5º círculo,"Cénit, Origen",1 acción,"S, V",Yes,No
+Palma Repulsora,5º círculo,Restauración,1 acción,"S, V",Yes,No
+Hambre de Dolor,5º círculo,"Mente, Ruina",1 acción,"S, V",Yes,No
+Abismo Ilusorio,5º círculo,"Espejismo, Mente",1 acción,"S, V",No,No
+Mascarada Colectiva,5º círculo,Espejismo,1 acción,"S, V",No,No
+Escena Capturada,5º círculo,Espejismo,1 acción,"M, S, V",No,No
+Lluvia de Rayos,5º círculo,Energía,1 acción,"S, V",No,No
+Esfera Atronadora,5º círculo,Energía,1 acción,"S, V",No,No
+Hoja Astral,6º círculo,"Cinético, Realidad",1 acción,"S, V",Yes,No
+Proyección Astral,6º círculo,"Destino, Realidad",1 hora,"M, S, V",No,Yes
+Portales Gemelos,6º círculo,Realidad,1 acción,"S, V",Yes,No
+Barrera de Cuchillas,6º círculo,"Cinético, Cénit",1 acción,"S, V",Yes,No
+Espíritu Gigante,6º círculo,Origen,1 acción,"M, S, V",Yes,No
+Velo del Olvido,6º círculo,Mente,1 acción,"S, V",Yes,No
+Haz Elemental,6º círculo,"Catálisis, Cinético, Energía",1 acción,"S, V",Yes,No
+Alumbrar Homúnculo,6º círculo,"Cénit, Origen",1 minuto,"M, S, V",No,No
+Encarnación Elemental,6º círculo,"Catálisis, Cinético, Cénit, Energía",1 acción,"M, S, V",Yes,No
+Cabaña Zancuda,6º círculo,Cinético,1 acción,"M, S, V",No,No
+Furia del Veterano,6º círculo,Simbiosis,1 acción,"M, S, V",No,No
+Hueste de Pilares,6º círculo,Cénit,1 acción,"S, V",No,No
+Cadena de Relámpagos,6º círculo,Energía,1 acción,"M, S, V",No,No
+Ola de Marchitamiento,6º círculo,Ruina,1 acción,"S, V",No,No
+Espíritu del Crepúsculo Feérico,6º círculo,"Mente, Origen",1 acción,"M, S, V",Yes,No
+Contingencia,6º círculo,"Cinético, Realidad",10 minutos,"M, S, V",No,Yes
+Rayo Desintegrador,6º círculo,Ruina,1 acción,"M, S, V",No,No
+Llamada del Zafiro,6º círculo,Realidad,1 acción,"M, S, V",No,No
+Mirada de Vacío,6º círculo,Mente,1 acción,"S, V",Yes,No
+Hallar el Camino,6º círculo,Destino,1 minuto,"M, S, V",Yes,No
+Aplastamiento Psíquico,6º círculo,Mente,1 acción,"S, V",No,No
+Carne a Piedra,6º círculo,"Cénit, Simbiosis",1 acción,"M, S, V",Yes,No
+Barrera de Anulación,6º círculo,"Cinético, Restauración",1 acción,"M, S, V",Yes,No
+Custodia del Laberinto,6º círculo,"Cénit, Espejismo, Simbiosis",10 minutos,"M, S, V",No,Yes
+Virulencia Consuntiva,6º círculo,Ruina,1 acción,"S, V",No,No
+Plenitud Vital,6º círculo,Restauración,1 acción,"S, V",No,No
+Banquete Heroico,6º círculo,"Restauración, Simbiosis",10 minutos,"M, S, V",No,Yes
+Moldear la Tierra,6º círculo,"Cinético, Cénit",1 acción,"M, S, V",Yes,No
+Esfera Glacial,6º círculo,Catálisis,1 acción,"M, S, V",No,No
+Baile Compulsivo,6º círculo,Mente,1 acción,V,Yes,No
+Espectáculo Latente,6º círculo,Espejismo,1 acción,"M, S, V",No,No
+Cuerpo de Tijeras,6º círculo,"Cinético, Cénit",1 acción,"M, S, V",Yes,No
+Fusión Viviente,6º círculo,"Cénit, Simbiosis",1 acción,"S, V",Yes,No
+Festín de Confitería,6º círculo,"Catálisis, Cénit",1 acción,"M, S, V",Yes,No
+Fortaleza Viviente,6º círculo,"Cénit, Realidad",1 acción,"M, S, V",Yes,No
+Bodega Embriagante,6º círculo,"Catálisis, Simbiosis",1 acción,"M, S, V",Yes,No
+Forma Gaseosa Soberana,6º círculo,"Catálisis, Cinético",1 acción,"S, V",Yes,No
+Cárcel de Vapor Hirviente,6º círculo,"Catálisis, Energía",1 acción,"M, S, V",Yes,No
+Zancada del Ciclón Ígneo,6º círculo,"Cinético, Energía",1 acción,"S, V",Yes,No
+Mortaja del Fingido,6º círculo,"Espejismo, Mente",1 acción,S,Yes,No
+Panoplia de Reflejos,6º círculo,Espejismo,1 acción,"M, S, V",Yes,No
+Bandada de Cuervos Espectrales,6º círculo,"Mente, Origen",1 acción,"S, V",No,No
+Sendero de Raíces,6º círculo,"Realidad, Simbiosis",1 acción,"S, V",No,No
+Ojo de la Verdad,6º círculo,Destino,1 acción,"M, S, V",No,No
+Manto de Absorción Arcana,6º círculo,Restauración,1 acción,"S, V",Yes,No
+Égida Aliada,6º círculo,Restauración,1 reacción,"S, V",No,No
+Asamblea Espiritual,6º círculo,Ruina,10 minutos,"M, S, V",No,Yes
+Pozo Negro,6º círculo,Ruina,1 acción,"M, S, V",Yes,No
+Sombras Invasoras,6º círculo,Espejismo,1 minuto,"M, S, V",No,Yes
+Mal Fario,6º círculo,Destino,1 acción,"M, S, V",Yes,No
+Visión del Pasado,6º círculo,Destino,1 minuto,"M, S, V",No,No
+Grieta Espiritual,6º círculo,Origen,1 acción,"M, S, V",Yes,No
+Simulacro de Escarcha,7º círculo,"Catálisis, Destino",12 horas,"M, S, V",No,No
+Jaula de Fuerza,7º círculo,"Cinético, Realidad",1 acción,"M, S, V",No,No
+Perla de Fuego Latente,7º círculo,Energía,1 acción,"M, S, V",Yes,No
+Umbral Etéreo,7º círculo,Realidad,1 acción,"S, V",No,No
+Avalancha,7º círculo,"Catálisis, Cénit",1 acción,"M, S, V",No,No
+Intercambio de Esencias,7º círculo,"Destino, Mente",1 acción,"M, S, V",No,No
+Disco Segador,7º círculo,Cénit,1 acción,"M, S, V",Yes,No
+Fulguración Ósea,7º círculo,Energía,1 acción,"M, S, V",No,No
+Decreto Cadavérico,7º círculo,Ruina,1 acción,"M, S, V",No,No
+Suspensión Temporal,7º círculo,Realidad,1 acción,V,No,No
+Vorágine Tempestuosa,7º círculo,"Cinético, Energía",1 acción,"M, S, V",Yes,No
+Tempestad Ígnea,7º círculo,Energía,1 acción,"S, V",No,No
+Futuros Enfrentados,7º círculo,"Destino, Mente",1 acción,"S, V",Yes,No
+Baluarte Compartido,7º círculo,Restauración,1 acción,"S, V",No,No
+Morada Ajena,7º círculo,"Mente, Realidad",1 minuto,"M, S, V",No,Yes
+Eclipse Astral,7º círculo,"Espejismo, Realidad",1 acción,"S, V",Yes,No
+Rayos Prismáticos,7º círculo,"Energía, Espejismo",1 acción,"S, V",No,No
+Inversión Gravitatoria,7º círculo,"Cinético, Realidad",1 acción,"M, S, V",Yes,No
+Símbolo de Perdición,7º círculo,"Mente, Ruina",1 minuto,"M, S, V",No,Yes
+Translocación,7º círculo,Realidad,1 acción,V,No,No
+Miasma Violeta,7º círculo,"Cinético, Espejismo",1 acción adicional,"M, S, V",Yes,No
+Solipsismo,7º círculo,"Mente, Realidad",1 acción,"S, V",Yes,No
+Condena de Arraigo,7º círculo,"Destino, Realidad",1 acción,"M, S, V",Yes,No
+Parásito Arcano,7º círculo,"Cinético, Origen",1 minuto,"M, S, V",No,Yes
+Convocar Espíritu Sombrío,7º círculo,"Origen, Ruina",1 acción,"M, S, V",Yes,No
+Crear Bastón del Trueno,7º círculo,"Cénit, Energía",1 hora,"M, S, V",No,No
+Hambre Insaciable,7º círculo,Ruina,1 acción,"M, S, V",No,No
+Convocar Soldados de Hielo,7º círculo,"Catálisis, Origen",1 acción,"M, S, V",No,No
+Encarnación de Jarabe,7º círculo,"Catálisis, Simbiosis",1 acción,"M, S, V",Yes,No
+Encarnación de Resina,7º círculo,"Cénit, Simbiosis",1 acción,"M, S, V",Yes,No
+Portal de Vapor Ácido,7º círculo,"Catálisis, Realidad",1 acción,"M, S, V",Yes,No
+Espinas de Obsidiana,7º círculo,Cénit,1 acción,"M, S, V",Yes,No
+Égida Especular,7º círculo,Restauración,1 acción,"M, S, V",Yes,No
+Muro de Hachas Danzantes,7º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Cubo de Deriva Arcana,7º círculo,Cinético,1 acción,"M, S, V",Yes,No
+Ruptura de Soberanía,7º círculo,Ruina,1 acción,"S, V",Yes,No
+Festín del Hedonista,7º círculo,Mente,10 minutos,"M, S, V",Yes,Yes
+Embate de Fuego y Escarcha,7º círculo,"Catálisis, Energía",1 acción,"S, V",No,No
+Anillo de Resguardo Arcano,7º círculo,"Cinético, Restauración",1 acción adicional,"M, S, V",Yes,No
+Marea de Oscuridad Marchita,7º círculo,"Espejismo, Ruina",1 acción,"M, S, V",No,No
+Mil Formas Salvajes,8º círculo,Simbiosis,1 acción,"S, V",Yes,No
+Aversión Eterna,8º círculo,Mente,1 hora,"M, S, V",No,Yes
+Vacío Arcano,8º círculo,"Cinético, Realidad",1 acción,"M, S, V",Yes,No
+Mente Quebrada,8º círculo,Mente,1 acción,"M, S, V",No,No
+Doble Latente,8º círculo,"Destino, Simbiosis",1 hora,"M, S, V",No,No
+Dominio del Clima,8º círculo,"Catálisis, Energía",10 minutos,"M, S, V",Yes,No
+Cataclismo de Magma,8º círculo,"Cénit, Energía",1 acción,"M, S, V",No,No
+Regreso al Ayer,8º círculo,"Destino, Realidad",1 acción,"M, S, V",No,No
+Cámara de la Puerta Umbría,8º círculo,"Espejismo, Realidad",1 acción,"S, V",No,No
+Sacudida Tectónica,8º círculo,Cénit,1 acción,"M, S, V",Yes,No
+Orbe de Velo Violeta,8º círculo,Espejismo,1 acción,"M, S, V",Yes,No
+Pira de la Venganza Sagrada,8º círculo,"Destino, Energía",1 acción,"M, S, V",Yes,No
+Aura Prismática Disruptiva,8º círculo,"Cinético, Espejismo",1 acción,"M, S, V",Yes,No
+Resplandor de Guarda Sagrada,8º círculo,"Destino, Restauración",1 acción,"M, S, V",Yes,No
+Nube de Brasas Voraz,8º círculo,Energía,1 acción,"S, V",Yes,No
+Dédalo Dimensional,8º círculo,Realidad,1 acción,"S, V",Yes,No
+Velo de la Mente Vacía,8º círculo,"Mente, Restauración",1 acción,"S, V",No,No
+Palabra Aturdidora,8º círculo,Mente,1 acción,V,Yes,No
+Explosión Solar,8º círculo,"Destino, Energía",1 acción,"M, S, V",No,No
+Enlace Telepático,8º círculo,Mente,1 acción,"M, S, V",No,No
+Ola Devastadora,8º círculo,"Catálisis, Cinético",1 minuto,"S, V",Yes,No
+Pliego Viviente,8º círculo,"Cinético, Cénit",1 acción,"M, S, V",Yes,No
+Pantano Encarnado,8º círculo,"Catálisis, Simbiosis",1 acción,"M, S, V",Yes,No
+Resplandor Aplastante,8º círculo,"Energía, Espejismo",1 acción,"S, V",No,No
+Vislumbre del Vacío,8º círculo,"Mente, Realidad",1 acción,"S, V",No,No
+Miasma Encubridor,8º círculo,"Espejismo, Simbiosis",1 acción,"M, S, V",Yes,No
+Viento Sepulcral,8º círculo,"Cinético, Ruina",1 acción,"S, V",Yes,No
+Chorro Disolvente,8º círculo,Catálisis,1 acción,"M, S, V",No,No
+Reserva de Vitalidad,8º círculo,Restauración,1 acción,"M, S, V",No,No
+Forma del Caos,8º círculo,"Destino, Realidad",1 acción,"M, S, V",Yes,No
+Gran Floración,8º círculo,"Destino, Simbiosis",1 hora,"M, S, V",No,No
+Estrella Convocada,8º círculo,"Mente, Origen",1 acción,"S, V",Yes,No
+Convocar Titán,9º círculo,Origen,1 acción,"M, S, V",Yes,No
+Forma Mutable,9º círculo,Simbiosis,1 acción,"M, S, V",Yes,No
+Tormenta Sombría,9º círculo,"Catálisis, Energía",1 acción,"S, V",Yes,No
+Transmutación Verdadera,9º círculo,"Catálisis, Simbiosis",1 acción,"M, S, V",Yes,No
+Horror Íntimo,9º círculo,"Espejismo, Mente",1 acción,"S, V",Yes,No
+Liberación Absoluta,9º círculo,Restauración,1 acción,"S, V",No,No
+Géiser de Magma,9º círculo,"Cénit, Energía",1 acción,"S, V",Yes,No
+Recinto Soberano,9º círculo,"Cinético, Realidad",1 acción,"S, V",No,No
+Enjambre de Meteoritos,9º círculo,"Cénit, Energía",1 acción,"S, V",No,No
+Muro Prismático,9º círculo,"Energía, Espejismo",1 acción,"S, V",Yes,No
+Resurrección Verdadera,9º círculo,"Destino, Restauración",1 hora,"M, S, V",No,No
+Deseo,9º círculo,"Destino, Realidad",1 acción,V,No,No
+Maldición de Sangre,9º círculo,"Destino, Ruina",1 minuto,"M, S, V",No,Yes
+Aplastamiento Gravitatorio,9º círculo,Cinético,1 acción,"S, V",No,No
+Alma Robada,9º círculo,"Origen, Ruina",1 acción,"S, V",No,No
+Fusión Pétrea,9º círculo,"Cénit, Realidad",1 acción,"S, V",No,No
