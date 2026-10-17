@@ -1,0 +1,17 @@
+﻿Nombre,Dificultad,Disponibilidad,Familia,Señas
+"Común ",20,100,Cendarina,Yes
+Elfo,65,55,Cendarina,Yes
+Goblin,30,60,Cendarina,Yes
+Enano,55,50,Petrea,Yes
+Gigante,60,25,Petrea,No
+Gafado,40,35,Petrea,Yes
+Acuano,72,35,Primordial,Yes
+Terrano,70,25,Primordial,No
+Aurano,80,15,Primordial,No
+Ignano,75,20,Primordial,No
+Dracónico,60,40,Sellario,Yes
+Infernal,75,20,Sellario,No
+Abisal,90,10,Sellario,No
+Sivano,85,15,Brotario,No
+Ternakan,50,30,Brotario,Yes
+Fungril,80,10,Brotario,No
