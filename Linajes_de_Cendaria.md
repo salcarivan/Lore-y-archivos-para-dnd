@@ -204,9 +204,9 @@
 
 **Origen:** Reliquia viva de la Primera Era: gigantes que sirvieron a los dioses menores durante la Edad sin Niebla como obreros y guardianes. Cuando la Guerra que Rompió el Cielo estalló, muchos Jotum se negaron a tomar partido — una neutralidad que ningún bando les perdonó del todo. La Primera Exhalación dejó en ellos una marca distinta: la pérdida total de la vista al nacer, obligándolos a ganarse esa visión durante su primera década.
 
-**Defecto:** *Hambre de gigante.* Necesitan consumir el doble de comida que un humano adulto cada día. Sin suficientes provisiones, sufren desventaja en fuerza y resistencia. Pueden consumir alimentos que otras razas considerarían incomestibles y sobrevivir hasta una semana sin comer en situaciones extremas.
+**Defecto:** *Hambre de gigante.* En un día normal, su barra de Hambre aumenta cuatro etapas en vez de dos, así que necesitan cuatro raciones diarias para mantenerla estable. Cada herencia gigante permite sustituir una ración por un alimento adaptado. Si el Hambre alcanza la etapa 5, aumenta el Agotamiento según las reglas de supervivencia; la privación prolongada puede ser mortal, pero no causa daño ni muerte inmediata. Para sus rasgos y adaptaciones, consulta [Jotum](./Jotum.md).
 
-**Variantes:** No existen linajes diferenciados, aunque el número de ojos con que nace un Jotum (uno, dos o tres) se considera indicio del favor con que "el mundo" decidió devolverles la vista.
+**Variantes:** No existen linajes tribales cerrados. Cada Jotum elige una de seis herencias ancestrales de gigante, que determina su don y una adaptación alimentaria; el número de ojos (uno, dos o tres) es una señal personal, no un indicador de herencia ni de valor.
 
 ---
 
