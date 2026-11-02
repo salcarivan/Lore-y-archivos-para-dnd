@@ -47,7 +47,7 @@ El ritmo del Monje se apoya en dos elementos: la **Chispa**, que marca los momen
 
 En tu turno puedes tener encendida una **Chispa**. La enciendes cuando ocurre cualquiera de estas cosas:
 
-- Te desplazas al menos **10 pies** durante tu turno antes de impactar con un ataque.
+- Te desplazas al menos **2 casillas** durante tu turno antes de impactar con un ataque.
 - Impactas con un ataque de Artes Marciales a una criatura que no te ha golpeado todavía durante este asalto.
 - Una criatura falla un ataque cuerpo a cuerpo contra ti y estás sin armadura ni escudo.
 
@@ -83,11 +83,11 @@ Tu reserva máxima de Ki es igual a tu nivel de Monje + tu modificador de Sabidu
 
 **Bastón — Paso circular** *(Especial)*
 *Momento:* Enciendes tu Chispa desplazándote.
-*Efecto:* Puedes desplazarte 5 pies adicionales sin provocar ataques de oportunidad.
+*Efecto:* Puedes desplazarte 1 casilla adicional sin provocar ataques de oportunidad.
 
 **Cuerpo a cuerpo — Corriente** *(Maestra)*
 *Momento:* Impactas mientras tu Chispa está encendida.
-*Efecto:* Desplazas al objetivo 5 pies en la dirección que elijas. Si apagas tu Chispa, puedes desplazarlo hasta 10 pies y ese movimiento no provoca ataques de oportunidad.
+*Efecto:* Desplazas al objetivo 1 casilla en la dirección que elijas. Si apagas tu Chispa, puedes desplazarlo hasta 2 casillas y ese movimiento no provoca ataques de oportunidad.
 
 **Espada — Danza de acero** *(Épica)*
 *Momento:* Una criatura falla un ataque contra ti mientras tu Chispa está encendida.
@@ -95,7 +95,7 @@ Tu reserva máxima de Ki es igual a tu nivel de Monje + tu modificador de Sabidu
 
 **Cualquier arma — Cuerpo imposible** *(Legendaria)*
 *Momento:* Mientras tu Chispa está encendida, una criatura te impacta.
-*Efecto:* Puedes apagar la Chispa para reducir el daño en una cantidad igual a tu bonificador de competencia × 2 y desplazarte 10 pies sin provocar ataques de oportunidad.
+*Efecto:* Puedes apagar la Chispa para reducir el daño en una cantidad igual a tu bonificador de competencia × 2 y desplazarte 2 casillas sin provocar ataques de oportunidad.
 
 ### Flurry of Blows (nivel 2)
 
@@ -107,7 +107,7 @@ Puedes tomar la acción **Correr** o **Retirarse** como acción de bonificación
 
 ### Movimiento sin Armadura (nivel 2)
 
-Tu velocidad aumenta en 10 pies mientras no llevas armadura ni escudo. El incremento crece según la tabla del Monje.
+Tu velocidad aumenta en 2 casillas mientras no llevas armadura ni escudo. El incremento crece según la tabla del Monje.
 
 ---
 
@@ -118,25 +118,25 @@ Tu velocidad aumenta en 10 pies mientras no llevas armadura ni escudo. El increm
 | Nivel | Bon. comp. | Rasgos | Dado de Artes Marciales | Técnicas conocidas | Movimiento sin armadura |
 |---:|---:|---|---:|---:|---:|
 | 1 | +2 | Artes Marciales, Defensa sin Armadura | 1d6 | — | — |
-| 2 | +2 | Ki, Chispa y Técnicas, Flurry of Blows, Paso del Viento, Movimiento sin Armadura | 1d6 | 3 | +10 ft |
-| 3 | +2 | Desviar Ataques, Subclase | 1d6 | 3 | +10 ft |
-| 4 | +2 | Mejora de puntuación, Caída Lenta | 1d6 | 3 | +10 ft |
-| 5 | +3 | Ataque Extra, Golpe Aturdidor | 1d8 | 4 | +10 ft |
-| 6 | +3 | Golpes Trascendentes, rasgo de subclase | 1d8 | 4 | +15 ft |
-| 7 | +3 | Evasión | 1d8 | 5 | +15 ft |
-| 8 | +3 | Mejora de puntuación | 1d8 | 5 | +15 ft |
-| 9 | +4 | Movimiento Acrobático | 1d8 | 5 | +15 ft |
-| 10 | +4 | Maestría de la Chispa, Autorrestauración | 1d8 | 6 | +20 ft |
-| 11 | +4 | Espíritu del Guerrero, rasgo de subclase | 1d10 | 6 | +20 ft |
-| 12 | +4 | Mejora de puntuación | 1d10 | 6 | +20 ft |
-| 13 | +5 | Deflectar Energía | 1d10 | 7 | +20 ft |
-| 14 | +5 | Superviviente Disciplinado | 1d10 | 7 | +25 ft |
-| 15 | +5 | Chispa Perfecta | 1d10 | 7 | +25 ft |
-| 16 | +5 | Mejora de puntuación | 1d10 | 7 | +25 ft |
-| 17 | +6 | rasgo de subclase | 1d12 | 8 | +25 ft |
-| 18 | +6 | Defensa Superior | 1d12 | 8 | +30 ft |
-| 19 | +6 | Don Épico | 1d12 | 8 | +30 ft |
-| 20 | +6 | Cuerpo y Mente | 1d12 | 8 | +30 ft |
+| 2 | +2 | Ki, Chispa y Técnicas, Flurry of Blows, Paso del Viento, Movimiento sin Armadura | 1d6 | 3 | +2 casillas |
+| 3 | +2 | Desviar Ataques, Subclase | 1d6 | 3 | +2 casillas |
+| 4 | +2 | Mejora de puntuación, Caída Lenta | 1d6 | 3 | +2 casillas |
+| 5 | +3 | Ataque Extra, Golpe Aturdidor | 1d8 | 4 | +2 casillas |
+| 6 | +3 | Golpes Trascendentes, rasgo de subclase | 1d8 | 4 | +3 casillas |
+| 7 | +3 | Evasión | 1d8 | 5 | +3 casillas |
+| 8 | +3 | Mejora de puntuación | 1d8 | 5 | +3 casillas |
+| 9 | +4 | Movimiento Acrobático | 1d8 | 5 | +3 casillas |
+| 10 | +4 | Maestría de la Chispa, Autorrestauración | 1d8 | 6 | +4 casillas |
+| 11 | +4 | Espíritu del Guerrero, rasgo de subclase | 1d10 | 6 | +4 casillas |
+| 12 | +4 | Mejora de puntuación | 1d10 | 6 | +4 casillas |
+| 13 | +5 | Deflectar Energía | 1d10 | 7 | +4 casillas |
+| 14 | +5 | Superviviente Disciplinado | 1d10 | 7 | +5 casillas |
+| 15 | +5 | Chispa Perfecta | 1d10 | 7 | +5 casillas |
+| 16 | +5 | Mejora de puntuación | 1d10 | 7 | +5 casillas |
+| 17 | +6 | rasgo de subclase | 1d12 | 8 | +5 casillas |
+| 18 | +6 | Defensa Superior | 1d12 | 8 | +6 casillas |
+| 19 | +6 | Don Épico | 1d12 | 8 | +6 casillas |
+| 20 | +6 | Cuerpo y Mente | 1d12 | 8 | +6 casillas |
 
 ### Nivel 1 — Artes Marciales
 
@@ -153,7 +153,7 @@ Sin armadura ni escudo, tu CA base es **10 + tu modificador de Destreza + tu mod
 
 ### Nivel 3 — Desviar Ataques
 
-Cuando un ataque te impacta y su daño incluye contundente, perforante o cortante, puedes usar tu reacción para reducir el daño total en **1d10 + tu modificador de Destreza + tu nivel de Monje**. Si reduces el daño a 0, puedes apagar tu Chispa para redirigir la fuerza: elige una criatura a 5 pies (cuerpo a cuerpo) o a 60 pies sin cobertura total (a distancia); debe superar una salvación de Destreza o recibir daño igual a dos tiradas de tu Dado de Artes Marciales + tu modificador de Destreza.
+Cuando un ataque te impacta y su daño incluye contundente, perforante o cortante, puedes usar tu reacción para reducir el daño total en **1d10 + tu modificador de Destreza + tu nivel de Monje**. Si reduces el daño a 0, puedes apagar tu Chispa para redirigir la fuerza: elige una criatura a 1 casilla (cuerpo a cuerpo) o a 12 casillas sin cobertura total (a distancia); debe superar una salvación de Destreza o recibir daño igual a dos tiradas de tu Dado de Artes Marciales + tu modificador de Destreza.
 
 ### Nivel 3 — Subclase
 
